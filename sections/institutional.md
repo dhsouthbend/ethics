@@ -9,8 +9,8 @@ So, before delving into a deeper discussion of ethics beyond compliance, this fi
 * How to know if you will need to get IRB approval
 * CUNY centers and resources 
 
-![someone saying the IRB was taking too long so I did it without approval! and then a super-hero dog with its arms in the air exclaiming wrong! you can't bypass the IRB!](../images/irbcomix.png)  
-Source: This comic was created at MakeBeliefsComix.com.  
+![a man in a lab coat pointing to his watch and saying the IRB was taking too long so I did it without approval! and then a super-hero dog with its arms in the air exclaiming wrong! you can't bypass the IRB!](../images/irbcomix.png)  
+Source: This comic was created at MakeBeliefsComix.com. Create your own for free [here](https://www.makebeliefscomix.com/)  
    
 *Note: This first section on institutional ethics is more focused on digital research (rather than making tools or other projects) - but the latter section on ethics beyond compliance touches upon issues concerning researching and tool-building as well.* 
 

@@ -10,15 +10,19 @@
 
 Let's discuss as a group:  
 
-* *BRIEFLY,* how are knowledge and power mutually constituted, according to the theorizations of Gramsci, Hall or Foucault?
-* What do the key terms below mean?  
-* How might we apply these concepts when thinking through ethics for digital research and projects?  
+* *BRIEFLY,* how are knowledge and power mutually constituted, according to the theorizations of Gramsci, Hall, Foucault or others?  
+* How might we apply the concepts below when thinking through ethics for digital research and projects?  
 
-Some key terms:  
+Some key concepts:  
 
-* **Hegemony** (Antonio Gramsci)
-* **Discourse** (Michel Foucault)
-* **"Policing the crisis"** (Stuart Hall)
+* **Hegemony** (Antonio Gramsci)  
+> “The ability of a dominant group to create [majority] consent and agreement [around a particular system of meanings] within a population without the use or threat of force” (Kenneth Guest, *Cultural Anthropology A Toolkit for a Global Age*, 2014, page 52)
+
+* **Discourse** (Michel Foucault)  
+
+* **"Policing the crisis"** (Stuart Hall)  
+
+For further readings, see the section "Key works (among many more!) on the politics of knowledge production and forms of knowledge" on the [Resources page](resources.md) of this workshop.  
 
 An example:  
 
@@ -53,7 +57,7 @@ Projects to check out:
 * The [Interference Archive](http://interferencearchive.org/) - a local archive in Brooklyn that aims to "resist the hierarchy," as discussed in [this brief article](http://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/%20). *Fun fact: I helped paint that #NoDAPL banner - with others at [Decolonize this Place](http://www.decolonizethisplace.org/) - shown in the article's first photo.*  
 * The [#StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)  
 
-## Activity 3: Think, Pair, Share
+## Activity:
 
 Think about the digital project or research you are or will be working on.
 
