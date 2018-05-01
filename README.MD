@@ -5,6 +5,13 @@ This discussion-based workshop will address an array of ethical questions and co
 
 The approach of this workshop is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and is often reflective of a scholar's political commitments and personal background.  Nonetheless, this workshop will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.  
 
+### In this workshop, we (workshop participants) will:  
+
+* **consider** ethical practices to satisfy institutional needs (IRB) and working with “human subjects,”
+* **explore** ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools,
+* **review** alternative approaches and case examples,
+* **envision and discuss** the ethics of workshop participants' own projects and methodologies - see the corresponding worksheet [here](digiethicsDRI2018_worksheet.pdf)  
+
 ## Agenda  
 
 [Introduction](sections/introduction.md)  
@@ -20,15 +27,6 @@ The approach of this workshop is premised on the understanding that there is no 
 [Range of Impact](sections/range.md)  
 [Debrief](sections/debrief.md)  
 [Resources](sections/resources.md)  
-
-### In this workshop, we (workshop participants) will:  
-
-* **consider** ethical practices to satisfy institutional needs (IRB) and working with “human subjects,”
-* **explore** ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools,
-* **review** alternative approaches and case examples,
-* **envision and discuss** the ethics of workshop participants' own projects and methodologies - see the corresponding worksheet [here](digiethicsDRI2018_worksheet.pdf)  
-
-![creative commons logo followed by cc symbols for attribution and non-commercial](images/cc2.png)  
 
 ******
 

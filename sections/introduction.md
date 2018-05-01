@@ -2,8 +2,9 @@
 
 ## What are ethics?
 
-> n. Moral principles, or a system of these.
-	~Oxford English Dictionary Online
+Ethics are "moral principles, or a system of these" (Oxford English Dictionary Online). 
+
+For the context of this workshop, I define ethics as the moral principles that an individual aims to follow in practice to the best of their ability, research and foresight. Ethics are not just a list of universal standards that can be found in a research methods textbook, or the entirety of the Institutional Review Board's protocols, or that which is legal under the current political regime where one is located. Ethics are about being caring and sensitive towards the ways in which what an individual does and does not do affects other people, foremost, and perhaps also ecosystems, and trying one's best to not only not cause harm to them but ideally also actively do good (or even take an activist approach!). Practicing good ethics is in part acting on one's moral instincts, but it is also about stopping to question those instincts, to research histories and effects, and to check in with people.  
 
 ## What do we mean by digital projects and research?
 
@@ -16,19 +17,7 @@ A person's understandings of and commitments to ethics or morality are greatly l
 
 > I would like to insist on the embodied nature of all vision, and so reclaim the sensory system that has been used to signify a leap out of the marked body and into a conquering gaze from nowhere. This is the gaze that mythically inscribes all the marked bodies, that makes the unmarked category claim the power to see and not be seen, to represent while escaping representation. This gaze signifies the unmarked positions of Man and White, one of the many nasty tones of the word objectivity to feminist ears in scientific and technological, late industrial, militarized, racist and male dominant societies, that is, here, in the belly of the monster, in the United States in the late 1980s. I would like a doctrine of embodied objectivity  that accommodates paradoxical and critical feminist science projects: feminist objectivity means quite simply situated knowledges. (Haraway 1988: 581)  
 
-## Introductions to each other
-
-So, if ethics are situated, ethical concerns vary between people, disciplines, projects and tools.  
-
-Introduce yourself to the person next to you and vice versa:  
-
-* Name
-* Program
-* Current or upcoming digital research or projects? 
-* Digital tools that you use?
-* How did you come to be working on that project? to use those tools?  
-
-Now introduce that person to us!  
+So, if ethics are situated, ethical concerns vary between people, disciplines, projects, tools and contexts.    
 
 ******
 

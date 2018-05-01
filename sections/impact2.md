@@ -8,7 +8,7 @@
 
 ## Discuss
 
-Let's discuss as a class:  
+Let's discuss as a group:  
 
 * *BRIEFLY,* how are knowledge and power mutually constituted, according to the theorizations of Gramsci, Hall or Foucault?
 * What do the key terms below mean?  

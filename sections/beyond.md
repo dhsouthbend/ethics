@@ -2,11 +2,11 @@
 
 As mentioned at the beginning of this workshop:  
 
-The approach of this workshop is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and often is a reflective of a scholar's political commitments and personal background.  Nonetheless, this workshop will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.   
+The approach of this workshop is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and often is reflective of a scholar's political commitments and personal background.  Nonetheless, this workshop will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.   
 
-To do so - I would argue - requires thinking beyond just the institutional requirements posed by the IRB.  
+To do so—I would argue—requires thinking beyond just the institutional requirements posed by the IRB.  
 
-## Activity 1: Think, Pair, Share  
+## Activity:  
 
 Think about the digital project or research you are or will be working on. 
 

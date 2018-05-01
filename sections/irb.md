@@ -1,37 +1,29 @@
-# Institutional Review Board (IRB) at CUNY  
+# Institutional Review Board (IRB)   
 
 The policies and principals stipulated in the Belmont Report largely inform those of the IRB.  
 
-The [CUNY Human Research Protection Program (HRPP)](https://www.gc.cuny.edu/About-the-GC/Administrative-Services/Human-Subjects-Research-Protection-Program-(HRPP)) 
+Every university or research institution should have its own or an affiliated IRB, which provides oversight, administrative support, and educational training to ensure that research done at that location complies with federal and state regulations, and university or institution policy.  
 
-> The program provides oversight, administrative support and educational training to ensure that CUNY research complies with federal and State regulations, University policy and the highest ethical standards... The CUNY HRPP comprises of 5 University Integrated Institutional Review Boards (IRBs) and 19 on-site HRPP offices. (CUNY HRPP)
+## When is IRB review required?  
 
-## When is CUNY HRPP or IRB review required?  
-
-When *ALL* of the criteria below are met:  
+Usually, when *ALL* of the criteria below are met:  
 1. The investigator is conducting research or clinical investigation;  
 2. The proposed research or clinical investigation involves human subjects; AND  
-3. CUNY is engaged in the research or clinical investigation involving human subjects.  
+3. Your university or research institution is engaged in the research or clinical investigation involving human subjects.  
+
+Source: [The CUNY Human Research Protection Program (HRPP), "CUNY HRPP Guidance: When is CUNY HRPP or IRB Review Required?"](http://www2.cuny.edu/wp-content/uploads/sites/4/page-assets/research/research-compliance/human-research-protection-program-hrpp/hrpp-policies-procedures/HRPP_IRB_Review_Required.pdf)  
 
 Who thinks they will need to apply for IRB approval?  
 
-*Consult your advisor and comittee members for advice on if you may need to apply.*  
+*Note: IRB protocols and procedures vary from institution to institution. Be sure to seek specific information from your home institution if you think there is a chance you may need IRB approval. That said, once your project is under their radar, you cannot undo their gaze onto it.*  
 
-For further guidelines on when CUNY HRPP or IRB Review is required, click [here](http://www2.cuny.edu/wp-content/uploads/sites/4/page-assets/research/research-compliance/human-research-protection-program-hrpp/hrpp-policies-procedures/HRPP_IRB_Review_Required.pdf)
-
-## So you think you may need CUNY HRPP or IRB approval?  
+## So you think you may need IRB approval?  
  
 Some advice:  
-* Aim to submit IRB application at least 3 months prior to the start date of your research  
-* Note that your CUNY IRB application will be conducted through the home CUNY campus of your advisor - automatically linked when you start the application on the Ideate website
-* Be patient with the Ideate website... and use Firefox as your browser - more Ideate tips [here](https://www.gc.cuny.edu/CUNY_GC/media/CUNY-Graduate-Center/PDF/GC%20HRPP%20Documents/Ideate%20Help%20Docs/IDEATE-QUICK-TIPS-and-TROUBLESHOOTING-vNov17.pdf?ext=.pdf)  
-* Make sure you have completed the CITI exam - more info [here](http://www2.cuny.edu/research/research-compliance/training-education/citi-training/)  
-* Keep in mind that IRB requires you attach all grant proposals (if applicable) that fund the project - *if not too late, keep this in mind when writing those grant proposals*  
+* Aim to submit your IRB application at least 3 months prior to the start date of your research (often times, the applicant will need to submit multiple revisions thereafter)
+* Make sure you have completed any necessary exams or trainings - universities often make it a requirement to pass an exam through the [Collaborative Institutional Training Initiative (CITI program)](https://about.citiprogram.org/en/mission-and-history/)    
+* Keep in mind that the IRB usually requires you to attach all grant proposals (if applicable) that fund the project - *if not too late, keep this in mind when writing those grant proposals*  
 * Sharing photos, videos or audio files of people to a public website or another publicly accessible space/repository as part of your research? You will need all participants to sign a legal deed of gift (an example [here](http://libraries.uky.edu/user_uploads/372_NunnCenter-Release-Master-2017v5.pdf), specific to oral history projects)
-
-For additional information on the CUNY HRPP policies & procedures, click [here](http://www2.cuny.edu/research/research-compliance/human-research-protection-program-hrpp/hrpp-policies-procedures/#1460557504764-6bb03276-3738)  
-
-For HRPP Educational Materials, click [here](https://www.gc.cuny.edu/About-the-GC/Administrative-Services/Human-Subjects-Research-Protection-Program-(HRPP)/HRPP-Educational-Materials)  
 
 ******
 
