@@ -6,19 +6,13 @@ The approach of this workshop is premised on the understanding that there is no 
 
 To do so—I would argue—requires thinking beyond just the institutional requirements posed by the IRB.  
 
-## Activity:  
+## Activity  
 
-Think about the digital project or research you are or will be working on. 
+Think about the digital project or research you are or will be working on.  
 
-1. Describe in 2-3 sentences to a non-expert audience the *design* of your project.  
-* What human labor is required to do it?  
-* Do you need to collect data? From where or who? 
-* Would there be any consequences if someone else got a hold of that data?  
-
-2. Next, describe in 2-3 sentences to a non-expert audience the *purpose* of your project.
-* It a tool that will organize data?  
-* Will it produce new knowledge?  
-* Who can access it?  
+1. Describe in 2-3 sentences to a non-expert audience the purpose of your project: what does it aim to *do*?  
+2. Next, describe in 2-3 sentences to a non-expert audience the design of your project: *how* will you do this?  
+3. In relation to the project's purpose and design, what might be some ethical concerns that fall beyond questions of legality or the purview of the IRB?  
 
 Pair up with another person near you and discuss. Share as a class.  
 

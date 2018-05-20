@@ -34,49 +34,6 @@ So then when, for eample, someone attempts to make an algorithm to identify pote
 
 Further reading: [Julia Angwen & Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say"](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)  
 
-## Ramifications of (re)producing categories
-
-Decisions on the categories and boundaries scholars use shape our:
-
-* Datasets
-* Archives, catalogues
-* Algorithms
-* Maps
-
-Categories are key to digital tools in many ways—the organizational systems used by libraries and archives, the tags used on websites, the methods of categorization informing algorithms—which then shapes not only how things/people/etc are grouped together but what is searchable and findable, and the trajectory of canon formation and what is cited and foregrounded.  
-
-> Part of the challenge of understanding algorithmic oppression is to understand that mathematical formulations to drive automated decisions are made by human beings. While we often think of terms such as 'big data' and 'algorithms' as being benign, neutral, or objective, they are anything but. The people who make these decisions hold all types of values, many of which openly promote racism, sexism, and false notions of meritocracy, which is well documented in studies of Silicon Valley and other tech corridors (Safiya Noble, Algorithms of Oppression, 2018, pp. 1-2)  
-
-![A tweet by "Jenna don't call the cops Freedman" @zinelib that reads: "Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them."](../images/jennatweet.png)  
-A tweet by Jenna Freedman, shared here with her permission.  
-Further reading: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma)  
-
-![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikipedia and the politics of gender categorization." In the image, a bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you oculd join the 'American Woman Novelist' category?"](../images/wiki.png)  
-Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
-
-## Attempts to "resist the hierarchy"  
-
-Some questions to consider:  
-
-* Can categorical hierarchies be resisted through digital projects?  
-* If possible, how so?  
-
-## Activity:
-
-Let's analyze and discuss a case study.  
-
-Check out the [Interference Archive (IA) website](http://interferencearchive.org/), read [this brief article](http://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/%20) and discuss:  
-
-* What kinds of materials does IA host and do they have rights to it?
-* In reference to the article, how does IA see itself as “resisting the hierarchy”?
-* What levels of impact does IA aim to take into account?
-
-*Fun fact: I helped paint that #NoDAPL banner - with others at [Decolonize this Place](http://www.decolonizethisplace.org/) - shown in the article's first photo.*
-
-Additional projects to check out:  
-* The [#StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)  
-* The [Zine Librarians Code of Ethics](http://zinelibraries.info/code-of-ethics/)  
-
 ******
 
-[<<< Back](impact1cont.md) - [Next >>>](impact3.md)
+[<<< Back](impact1cont.md) - [Next >>>](impact2cont.md)
