@@ -25,7 +25,6 @@ The approach of this workshop is premised on the understanding that there is no 
 [Level of Impact #2](sections/impact2.md)  
 [Level of Impact #3](sections/impact3.md)  
 [Range of Impact](sections/range.md)  
-[Debrief](sections/debrief.md)  
 [Resources](sections/resources.md)  
 
 ## Attributions  
