@@ -10,7 +10,11 @@ Some questions to consider:
 * Could your research or project be used to justify or facilitate potentially harmful **control** or **surveillance**?    
 * Could it influence **social or political discourse**? Modes of **profit**?  
 
-## Activity 4: Think, Pair, Share  
+Relevant ethnographic sources:
+Xiang Biao, *Global Body Shopping: An Indian Labor System in the Information Technology Industry*, 2007  
+Elsa Davidson, *The Burdens of Aspiration: Schools, Youth, and Success in the Divided Social Worlds of Silicon Valley*, 2011  
+
+## Activity   
 
 Think about the digital project or research you are or will be working on. 
 

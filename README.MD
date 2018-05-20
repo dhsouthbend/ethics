@@ -7,7 +7,7 @@ The approach of this workshop is premised on the understanding that there is no 
 
 ### In this workshop, we (workshop participants) will:  
 
-* **consider** ethical practices to satisfy institutional needs (IRB) and working with “human subjects,”
+* **consider** ethical practices to satisfy institutional needs (IRB) when working with “human subjects,”
 * **explore** ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools,
 * **review** alternative approaches and case examples,
 * **envision and discuss** the ethics of workshop participants' own projects and methodologies - see the corresponding worksheet [here](digiethicsDRI2018_worksheet.pdf)  
@@ -27,6 +27,17 @@ The approach of this workshop is premised on the understanding that there is no 
 [Range of Impact](sections/range.md)  
 [Debrief](sections/debrief.md)  
 [Resources](sections/resources.md)  
+
+## Attributions  
+
+This workshop was created by:
+
+**Kelsey Chatlosh**  
+GC, CUNY, Digital Fellow  
+Cultural Anthropology Ph.D. Student  
+kchatlosh@gradcenter.cuny.edu  
+Twitter: @kchatlosh  
+She / her  
 
 ******
 

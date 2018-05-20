@@ -21,7 +21,7 @@ Who thinks they will need to apply for IRB approval?
  
 Some advice:  
 * Aim to submit your IRB application at least 3 months prior to the start date of your research (often times, the applicant will need to submit multiple revisions thereafter)
-* Make sure you have completed any necessary exams or trainings - universities often make it a requirement to pass an exam through the [Collaborative Institutional Training Initiative (CITI program)](https://about.citiprogram.org/en/mission-and-history/)    
+* Make sure you have completed any necessary exams or trainings - for example, universities often make it a requirement to pass an exam through the [Collaborative Institutional Training Initiative (CITI program)](https://about.citiprogram.org/en/mission-and-history/)    
 * Keep in mind that the IRB usually requires you to attach all grant proposals (if applicable) that fund the project - *if not too late, keep this in mind when writing those grant proposals*  
 * Sharing photos, videos or audio files of people to a public website or another publicly accessible space/repository as part of your research? You will need all participants to sign a legal deed of gift (an example [here](http://libraries.uky.edu/user_uploads/372_NunnCenter-Release-Master-2017v5.pdf), specific to oral history projects)
 
