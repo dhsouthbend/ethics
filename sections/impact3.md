@@ -19,6 +19,9 @@ A researcher should not be expected to have all the answers or predict the futur
 As Annette Markham reminds us, as discussed earlier in this workshop:  
 > an impact approach is targeted toward the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods. ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))  
 
+![close-up photo of a drop of water falling into a pool of water, creating a series of concentric ripples](../images/ripple.jpg)  
+Image source: [Sergiu Bacioiu from Romania, "Ripple effect on water," Wikimedia, Creative Commons Attribution 2.0 Generic license](https://commons.wikimedia.org/wiki/File:Ripple_effect_on_water.jpg)  
+
 Further readings:  
 [Xiang Biao, *Global Body Shopping: An Indian Labor System in the Information Technology Industry*, 2007](https://press.princeton.edu/titles/8315.html)  
 [Elsa Davidson, *The Burdens of Aspiration: Schools, Youth, and Success in the Divided Social Worlds of Silicon Valley*, 2011](https://nyupress.org/books/9780814720875/)  
