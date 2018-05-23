@@ -10,18 +10,18 @@ By the end of this workshop, participants have:
 
 ## Next steps 
 
-{Determine institutional requirements}
-Will you apply for IRB?
+{Determine institutional requirements}  
+Will you apply for IRB?  
 
-{Explore ethics beyond compliance}
+{Explore ethics beyond compliance}  
 What are the three levels of impact that we discussed?  
 What does range of impact refer to?  
-Which will you consider?
+Which will you consider?  
 
-{Reassess your research methodology}
-How will the above affect your research/project methods and design?
+{Reassess your research methodology}  
+How will the above affect your research/project methods and design?  
 
-Refer to the following [Resources page](sections/resources.md) for further readings, projects, and advice.  
+Refer to the following [Resources](resources.md) page for further readings, projects, and advice.  
 
 ******
 
