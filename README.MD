@@ -26,7 +26,7 @@ By the end of this workshop, participants will:
 [Level of Impact #3](sections/impact3.md)  
 [Range of Impact](sections/range.md)  
 [Additional Case Examples](sections/cases.md)  
-[Review](sections/review.md)
+[Review](sections/review.md)  
 [Resources](sections/resources.md)  
 
 ## Attributions  
