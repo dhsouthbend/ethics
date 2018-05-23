@@ -128,4 +128,4 @@ She / her
 ******
 
 [<<< Back](cases.md)  
-[<<< Return to beginning](README.MD)  
+[<<< Return to beginning](https://github.com/DHRI-Curriculum/ethics)  
