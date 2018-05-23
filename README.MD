@@ -5,12 +5,11 @@ This discussion-based workshop will address an array of ethical questions and co
 
 The approach of this workshop is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and is often reflective of a scholar's political commitments and personal background.  Nonetheless, this workshop will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.  
 
-### In this workshop, we (workshop participants) will:  
-
-* **consider** ethical practices to satisfy institutional needs (IRB) when working with “human subjects,”
-* **explore** ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools,
-* **review** alternative approaches and case examples,
-* **envision and discuss** the ethics of workshop participants' own projects and methodologies - see the corresponding worksheet [here](digiethicsDRI2018_worksheet.pdf)  
+By the end of this workshop, participants will:
+* Understand ethical practices to satisfy institutional needs (IRB) when working with "human subjects";
+* Learn specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools;
+* Engage with alternative approaches and case examples; and
+* Envision the ethics of their own projects and methodologies.
 
 ## Agenda  
 
@@ -27,6 +26,7 @@ The approach of this workshop is premised on the understanding that there is no 
 [Level of Impact #3](sections/impact3.md)  
 [Range of Impact](sections/range.md)  
 [Additional Case Examples](sections/cases.md)  
+[Review](sections/review.md)
 [Resources](sections/resources.md)  
 
 ## Attributions  

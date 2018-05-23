@@ -32,7 +32,7 @@ The hegemonic racial discourses that associate Blackness with criminality in the
 
 So then when, for eample, someone attempts to make an algorithm to identify potential criminals that is produced through machine learning on "crime" data (e.g. the number of arrests or convictions in relation to demographic data) that algorithm will reproduce the racist ideologies and practices that lead to the policing and incarcerating of Black people at a much higher rate.
 
-Further reading: 
+Further reading:  
 [Julia Angwen and Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)  
 
 ******

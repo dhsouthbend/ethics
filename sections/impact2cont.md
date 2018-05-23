@@ -19,7 +19,7 @@ Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanit
 
 > Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them (Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma))  
 
-> Human beings are developing the digital platforms we use, and as I present evidence of the recklessness and lack of regard that is often shown to women and people of color in some of the output of these systems, it will become increasingly difficult for technology companies to separate their systematic and inequitable employment practices, and the far-right ideological bents of some of their employees, from the products they make for the public. (Safiya Noble, *Algorithms of Oppression*, 2018, page 2)  
+> Human beings are developing the digital platforms we use, and as I present evidence of the recklessness and lack of regard that is often shown to women and people of color in some of the output of these systems, it will become increasingly difficult for technology companies to separate their systematic and inequitable employment practices, and the far-right ideological bents of some of their employees, from the products they make for the public. ([Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018, page 2](https://nyupress.org/books/9781479837243/))  
 
 ## Attempts to "resist the hierarchy"  
 
