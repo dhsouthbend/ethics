@@ -41,13 +41,14 @@ Antonio Gramsci, various writings available [here](https://www.marxists.org/arch
 ## On ethics, algorithms and databases:
 
 [Critical Algorithm Studies: a Reading List, compiled by Tarleton Gillespie and Nick Seaver, 2016](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)  
-[Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* - to be released in 2018](https://nyupress.org/books/9781479837243/)  
+[Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018](https://nyupress.org/books/9781479837243/)  
 [Cathy O'Neil, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016](https://weaponsofmathdestructionbook.com/)  
 [Julia Angwen & Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say"](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)  
 [ProPublica's series of articles on "Machine Bias: Investigating Algorithmic Injustice"](https://www.propublica.org/series/machine-bias/)  
 [The Brian Lehrer Show podcast on "Getting Algorithms Right," 2018](https://www.wnyc.org/story/algorithms-better-or-worse/)  
 [The Policing in Chicago Research Group, "Tracked and Targeted: Early Findings on Chicago's Gang Database," 2018](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf)  
 [Darren Abramson and Lee Pike, "When Formal Systems Kill: Computer Ethics and Formal Methods," 2011](https://www.cs.indiana.edu/~lepike/pubs/fm-ethics.pdf)  
+[Anna Lauren Hoffmann, "Data Violence and How Bad Engineering Choices Can Damage Society," 2018](https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4)  
 [Roshanak Kheshti, interviewed by Kelsey Chatlosh, "Interview: Sound recording, oral positionality, and audio as ethnographic object," 2018](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/)  
 [Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/)  
 

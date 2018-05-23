@@ -19,13 +19,13 @@ Source: [HHS.gov](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report
 
 ## The Belmont Report outlines 3 core principles to follow to do ethical research:  
 
-* Respect for persons:  
+1. **Respect for persons:**  
 > Respect for persons incorporates at least two ethical convictions: first, that individuals should be treated as autonomous agents, and second, that persons with diminished autonomy are entitled to protection. The principle of respect for persons thus divides into two separate moral requirements: the requirement to acknowledge autonomy and the requirement to protect those with diminished autonomy.  
 
-* Beneficence:
+2. **Beneficence:**
 > Persons are treated in an ethical manner not only by respecting their decisions and protecting them from harm, but also by making efforts to secure their well-being... Two general rules have been formulated as complementary expressions of beneficent actions in this sense: (1) do not harm and (2) maximize possible benefits and minimize possible harms.  
 
-* Justice:
+3. **Justice:**
 > Who ought to receive the benefits of research and bear its burdens? This is a question of justice, in the sense of "fairness in distribution" or "what is deserved." An injustice occurs when some benefit to which a person is entitled is denied without good reason or when some burden is imposed unduly... There are several widely accepted formulations of just ways to distribute burdens and benefits... These formulations are (1) to each person an equal share, (2) to each person according to individual need, (3) to each person according to individual effort, (4) to each person according to societal contribution, and (5) to each person according to merit.  
 
 Source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)  
@@ -38,7 +38,7 @@ Source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/bel
 	* Voluntariness & right to withdraw  
 
 2. **Assessment of risks and benefits**
-	* The nature and scope of risks and benefits - always minimize risk of harm!
+	* The nature and scope of risks and benefits-always minimize risk of harm!
 		* E.g. question of anonymity
 	* The systematic assessment of risks and benefits  
 

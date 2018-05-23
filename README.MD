@@ -1,7 +1,7 @@
 
 # Ethics for Digital Projects and Research 
 
-This discussion-based workshop will address an array of ethical questions and concerns for folks doing digital projects or research with an emphasis on consent, personhood, confidentiality, political economy, the politics of knowledge production, and accessibility. In addressing these issues, this workshop will first provide a general overview of ethics for institutional research compliance - including the Belmont Report and Institutional Review Board - and then delve into an array of ethical issues that extend beyond institutional purview.  
+This discussion-based workshop will address an array of ethical questions and concerns for folks doing digital projects or research with an emphasis on consent, personhood, confidentiality, political economy, the politics of knowledge production, and accessibility. In addressing these issues, this workshop will first provide a general overview of ethics for institutional research compliance—including the Belmont Report and Institutional Review Board—and then delve into an array of ethical issues that extend beyond institutional purview.  
 
 The approach of this workshop is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and is often reflective of a scholar's political commitments and personal background.  Nonetheless, this workshop will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.  
 
@@ -23,8 +23,10 @@ The approach of this workshop is premised on the understanding that there is no 
 [Level of Impact #1](sections/impact1.md)  
 [Level of Impact #1 cont.](sections/impact1cont.md)  
 [Level of Impact #2](sections/impact2.md)  
+[Level of Impact #2 cont.](sections/impact2cont.md)  
 [Level of Impact #3](sections/impact3.md)  
 [Range of Impact](sections/range.md)  
+[Additional Case Examples](sections/cases.md)  
 [Resources](sections/resources.md)  
 
 ## Attributions  

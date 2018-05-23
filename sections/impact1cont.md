@@ -10,7 +10,7 @@ Some questions to consider:
 * What forms of "public" data are ethical to use? Or require attribution?  
 * How might we (inadvertently) share data?  
 
-For those doing work with big data, recommended further reading: [Matthew Zook et al., "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
+For those doing work with big data, recommended reading: [Matthew Zook et al., "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
 
 ## The question of personhood
 
