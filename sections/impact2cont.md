@@ -1,23 +1,25 @@
 [<<< Previous](impact2.md) | [Next >>>](impact3.md)
 
-# Level of Impact 2 cont.  
+# Level of impact II, continued
 
 ## Ramifications of (re)producing categories
 
-Decisions on the categories and boundaries scholars use shape our:  
-* Datasets
-* Catalogues
-* Maps
-* Algorithms
+Decisions on the categories and boundaries scholars use shape our:
 
-Categories are key to digital tools in many ways: the classification systems used by libraries and archives, the tags used on websites, the methods of categorization informing algorithms, and the spatial divisions on a map. The production and reproduction of these categories shapes how things/people/places etc. are identified and grouped together, and also what is searchable, findable, and foregrounded.  
+- Datasets
+- Catalogues
+- Maps
+- Algorithms
+
+Categories are key to digital tools in many ways: the classification systems used by libraries and archives, the tags used on websites, the methods of categorization informing algorithms, and the spatial divisions on a map. The production and reproduction of these categories shapes how things/people/places etc. are identified and grouped together, and also what is searchable, findable, and foregrounded.
 
 ![A comic from Postcolonial #DH No. 28 by Adeline Koh: "Wikipedia and the politics of gender categorization." In the image, a bunch of white men stand to the left behind a roped off area, and a bunch of people of color and women stand to the right. A white male facing the people to the right says to them, "I'm sorry, there just isn't any more space in the main wikipedia 'American Novelist' category. Maybe you oculd join the 'American Woman Novelist' category?"](../images/wiki.png)  
+
 Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
 
-## Human biases and disregard  
+## Human biases and disregard
 
-**Human beings** are making decisions that inform how these groupings are being made. 
+**Human beings** are making decisions that inform how these groupings are being made.
 
 > Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them (Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma))  
 
@@ -25,16 +27,16 @@ Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanit
 
 ## Attempts to "resist the hierarchy"  
 
-Some questions to consider:  
+Some questions to consider:
 
-* Can categorical hierarchies be resisted through digital projects?  
-* If possible, how so?  
+Can categorical hierarchies be resisted through digital projects? If such resistance is possible, how can it be achieved?
 
-Projects to check out:  
-* [The #StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)  
-* [The Zine Librarians Code of Ethics](http://zinelibraries.info/code-of-ethics/)  
-* [Native-Land.ca (mapping project)](https://native-land.ca/)  
-* [Invasion of America: How the United States Took Over an Eighth of the World (mapping project)](http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6)  
+Projects to check out:
+
+- [The #StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)  
+- [The Zine Librarians Code of Ethics](http://zinelibraries.info/code-of-ethics/)  
+- [Native-Land.ca (mapping project)](https://native-land.ca/)  
+- [Invasion of America: How the United States Took Over an Eighth of the World (mapping project)](http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6)  
 
 ## Activity:
 
