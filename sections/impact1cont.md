@@ -1,3 +1,5 @@
+[<<< Previous](impact1.md) | [Next >>>](impact2.md)
+
 # Level of Impact #1 cont.  
 
 ## “Public” data
@@ -37,6 +39,4 @@ Review Joshua Tabak and Vivian Zayas's [academic article](http://journals.plos.o
 
 Further reading: Patrick Sweeney, ["Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation"](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
 
-******
-
-[<<< Back](impact1.md) - [Next >>>](impact2.md)
+[<<< Previous](impact1.md) | [Next >>>](impact2.md)

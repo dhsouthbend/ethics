@@ -1,3 +1,5 @@
+[<<< Previous](irb.md) | [Next >>>](levelsimpact.md)
+
 # Ethics beyond compliance
 
 As mentioned at the beginning of this workshop:  
@@ -16,7 +18,5 @@ Think about the digital project or research you are or will be working on.
 
 Pair up with another person near you and discuss. Share as a class.  
 
-******
-
-[<<< Back](irb.md) - [Next >>>](levelsimpact.md)
+[<<< Previous](irb.md) | [Next >>>](levelsimpact.md)
 

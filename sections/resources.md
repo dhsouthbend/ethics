@@ -1,3 +1,5 @@
+[<<< Previous](cases.md)  
+
 # Resources on ethics for digital projects and research
 
 *Note that these resources are just a sampling of readings and projects that may be useful for thinking about or demonstrative of critically ethical approaches to digital projects and research, but there are many more resources out there!*
@@ -125,7 +127,5 @@ Cultural Anthropology Student
 Kchatlosh@gradcenter.cuny.edu  
 She / her  
 
-******
-
-[<<< Back](cases.md)  
+[<<< Previous](cases.md)  
 [<<< Return to beginning](https://github.com/DHRI-Curriculum/ethics)  

@@ -1,3 +1,5 @@
+[<<< Previous](range.md) | [Next >>>](review.md)
+
 # Additional case examples to consider
 
 This section includes various case examples of digital projects and research that participants may look into and discuss in relation to the ethical questions and concepts addressed, time-permitting.  
@@ -34,6 +36,4 @@ Check out [the Gender API's website](https://gender-api.com/) and click around i
 * Who might be the users of this API? What may be their intentions in using this API?
 * Does the use of this API raise any ethical concerns?  
 
-******
-
-[<<< Back](range.md) - [Next >>>](review.md)
+[<<< Previous](range.md) | [Next >>>](review.md)

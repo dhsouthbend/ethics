@@ -1,3 +1,5 @@
+[<<< Previous](beyond.md) | [Next >>>](impact1.md)
+
 # Levels of impact  
 
 This workshop aims to emphasize how a scholar's project or research may directly or indirectly affect real **people** in potentially harmful ways, in order to attempt to avoid causing people such harm.  
@@ -20,6 +22,4 @@ Additionally, this workshop will address the range of impact, or the range of ac
 
 Source: [Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)    
 
-******
-
-[<<< Back](beyond.md) - [Next >>>](impact1.md)
+[<<< Previous](beyond.md) | [Next >>>](impact1.md)

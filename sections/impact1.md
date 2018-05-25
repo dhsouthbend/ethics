@@ -1,3 +1,5 @@
+[<<< Previous](levelsimpact.md) | [Next >>>](impact1cont.md)
+
 # Level of Impact #1
 
 ## Direct effects on people
@@ -28,6 +30,4 @@ A working definition of the “distance principle”:
 ![Image of one person typing on a computer followed by a divisionary line marked 'internet' and then a second person typing on a computer, image drawn by Derek Sivers](../images/realperson.png)  
 Image source: A still image from ["A real person, a lot like you"](https://www.youtube.com/watch?v=cfwwHa-7Ux8) by [Derek Sivers](https://sivers.org/), shared here with his permission.  
 
-******
-
-[<<< Back](levelsimpact.md) - [Next >>>](impact1cont.md)
+[<<< Previous](levelsimpact.md) | [Next >>>](impact1cont.md)

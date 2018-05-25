@@ -1,3 +1,5 @@
+[<<< Previous](impact2.md) | [Next >>>](range.md)
+
 # Level of Impact #3
 
 ## Social, political, and economic impacts  
@@ -42,6 +44,4 @@ Think about the digital project or research you are or will be working on.
 
 Pair up with another person near you and discuss. Share as a class.    
 
-******
-
-[<<< Back](impact2.md) - [Next >>>](range.md)
+[<<< Previous](impact2.md) | [Next >>>](range.md)

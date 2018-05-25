@@ -1,3 +1,5 @@
+[<<< Previous](impact2.md) | [Next >>>](impact3.md)
+
 # Level of Impact 2 cont.  
 
 ## Ramifications of (re)producing categories
@@ -44,6 +46,4 @@ Check out the [Interference Archive (IA) website](http://interferencearchive.org
 * In reference to the article, how does IA see itself as “resisting the hierarchy”?
 * What levels of impact does IA aim to take into account?
 
-******
-
-[<<< Back](impact2.md) - [Next >>>](impact3.md)
+[<<< Previous](impact2.md) | [Next >>>](impact3.md)

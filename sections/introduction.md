@@ -1,3 +1,5 @@
+[<<< Previous](README.md) | [Next >>>](institutional.md)
+
 # Introduction
 
 ## What are ethics?
@@ -22,9 +24,4 @@ As Haraway eloquently argues:
 
 So, if ethics are situated, ethical concerns vary between people, disciplines, projects, tools, and contexts.
 
-[<<< Back](README.md) - [Next >>>](institutional.md)
-
-
-
-
-
+[<<< Previous](README.md) | [Next >>>](institutional.md)

@@ -1,3 +1,5 @@
+[<<< Previous](belmont.md) | [Next >>>](beyond.md)
+
 # Institutional Review Board (IRB)   
 
 The policies and principals stipulated in the Belmont Report largely inform those of the Institutional Review Board (IRB).  
@@ -25,6 +27,4 @@ Some advice:
 * Keep in mind that the IRB usually requires you to attach all grant proposals (if applicable) that fund the project-*if not too late, keep this in mind when writing those grant proposals*  
 * Sharing photos, videos, or audio files of people to a public website or another publicly accessible space/repository as part of your research? You will need all participants to sign a legal deed of gift (an example [here](http://libraries.uky.edu/user_uploads/372_NunnCenter-Release-Master-2017v5.pdf), specific to oral history projects)
 
-******
-
-[<<< Back](belmont.md) - [Next >>>](beyond.md)
+[<<< Previous](belmont.md) | [Next >>>](beyond.md)

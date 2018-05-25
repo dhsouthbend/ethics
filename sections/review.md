@@ -1,3 +1,5 @@
+[<<< Previous](cases.md) | [Next >>>](resources.md)
+
 # Review  
 
 ## Workshop debrief
@@ -23,6 +25,4 @@ How will the above affect your research/project methods and design?
 
 Refer to the following [Resources](resources.md) page for further readings, projects, and advice.  
 
-******
-
-[<<< Back](cases.md) - [Next >>>](resources.md)
+[<<< Previous](cases.md) | [Next >>>](resources.md)

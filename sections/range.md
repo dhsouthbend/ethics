@@ -1,3 +1,5 @@
+[<<< Previous](impact3.md) | [Next >>>](cases.md)
+
 # Range of Impact: Accessibility to Your Work
 
 ## What is accessibility?  
@@ -75,6 +77,4 @@ Think about the digital project or research you are or will be working on.
 
 Pair up with another person near you and discuss. Share as a class.  
 
-******
-
-[<<< Back](impact3.md) - [Next >>>](cases.md)
+[<<< Previous](impact3.md) | [Next >>>](cases.md)

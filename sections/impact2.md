@@ -1,3 +1,5 @@
+[<<< Previous](impact1cont.md) | [Next >>>](impact2cont.md)
+
 # Level of Impact #2
 
 ## Politics of knowledge production
@@ -35,6 +37,4 @@ So then when, for eample, someone attempts to make an algorithm to identify pote
 Further reading:  
 [Julia Angwen and Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)  
 
-******
-
-[<<< Back](impact1cont.md) - [Next >>>](impact2cont.md)
+[<<< Previous](impact1cont.md) | [Next >>>](impact2cont.md)
