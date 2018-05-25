@@ -14,7 +14,7 @@ Some questions to consider:
 
 * Could your research or project be used to justify or facilitate potentially harmful **control** or **surveillance**?    
 
-> “The reason that we are subject now to more surveillance than there was in the Soviet Union is that digital technology made it possible. ... So when the program carries these four freedoms, the users control it, it respects their freedom, that's free software. But if one of these freedoms is missing or incomplete, then the program controls the users and the proprietor controls the program.”](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy).
+> “The reason that we are subject now to more surveillance than there was in the Soviet Union is that digital technology made it possible. ... So when the program carries these four freedoms, the users control it, it respects their freedom, that's free software. But if one of these freedoms is missing or incomplete, then the program controls the users and the proprietor controls the program. Richard Stallman. [​​The Vanishing State of Privacy​](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy).
 
 
 * Could it influence **social or political discourse**? Modes of **profit**?
