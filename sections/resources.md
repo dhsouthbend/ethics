@@ -32,7 +32,6 @@
 
 [Annette Markam, Elizabeth Buchanon, the AoIR  Ethics Committee, and AoIR general membership, "Ethical Decision-Making and Internet Research: Recommendations from the AoIR Ethics Working Committee (Version 2.0)," 2012](http://aoir.org/reports/ethics2.pdf)  
 [Annette Markam and Elizabeth Buchanon, “Ethical Concerns in Internet Research,” forthcoming](https://www.academia.edu/8037870/Ethical_Concerns_in_Internet_Research)  
-[Susan Barnes, “A Privacy Paradox,” 2006](http://firstmonday.org/article/view/1394/1312)  
 [Bettina Berendt, Marco Büchler, and Geoffrey Rockwell, “Is it Research or is it Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge Sciences,” 2015)](http://theoreti.ca/?p=5729)  
 [Michael Zimmer and Katharina Kinder-Kurlanda, editors, *Internet Research Ethics for the Social Age: New Challenges, Cases, and Contexts*, 2017](https://www.scribd.com/document/360717441/Internet-Research-Ethics-for-the-Social-Age-New-Challenges-Cases-and-Contexts-Full)  
 [Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation," 2017](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
@@ -69,6 +68,8 @@
 
 [Patrick Smyth, GCDI Information Security Workshop](https://github.com/smythp/security-workshop)  
 [Zeynep Tufekci, "Facebook’s Surveillance Machine," 2018](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html?smid=pl-share)  
+[Susan Barnes, “A Privacy Paradox,” 2006](http://firstmonday.org/article/view/1394/1312)  
+[Factor, interview with Richard Stallman, "The Vanishing State of Privacy," 2017](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy)  
 [Stephen Zweibel, Data Management (presentation), 2017](http://zweibel.net/presentations/data.html#/)  
 [Lindsay Lloyd-Smith, “Archaeology: Principles and Practices of Digital Data Management," 2016](http://www.americananthro.org/LearnAndTeach/Content.aspx?ItemNumber=20668)   
 
