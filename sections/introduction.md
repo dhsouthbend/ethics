@@ -1,4 +1,4 @@
-[<<< Previous](README.md) | [Next >>>](institutional.md)
+[<<< Previous](https://github.com/DHRI-Curriculum/ethics) | [Next >>>](institutional.md)
 
 # Introduction
 
@@ -24,4 +24,4 @@ As Haraway eloquently argues:
 
 So, if ethics are situated, ethical concerns vary between people, disciplines, projects, tools, and contexts.
 
-[<<< Previous](README.md) | [Next >>>](institutional.md)
+[<<< Previous](https://github.com/DHRI-Curriculum/ethics) | [Next >>>](institutional.md)
