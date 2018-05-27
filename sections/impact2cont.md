@@ -21,9 +21,9 @@ Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanit
 
 **Human beings** are making decisions that inform how these groupings are being made.
 
-> Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them (Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma))  
+> "Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them" (Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma))  
 
-> Human beings are developing the digital platforms we use, and as I present evidence of the recklessness and lack of regard that is often shown to women and people of color in some of the output of these systems, it will become increasingly difficult for technology companies to separate their systematic and inequitable employment practices, and the far-right ideological bents of some of their employees, from the products they make for the public. ([Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018, page 2](https://nyupress.org/books/9781479837243/))  
+> "Human beings are developing the digital platforms we use, and as I present evidence of the recklessness and lack of regard that is often shown to women and people of color in some of the output of these systems, it will become increasingly difficult for technology companies to separate their systematic and inequitable employment practices, and the far-right ideological bents of some of their employees, from the products they make for the public." ([Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018, page 2](https://nyupress.org/books/9781479837243/))  
 
 ## Attempts to "resist the hierarchy"  
 
@@ -46,6 +46,8 @@ Check out the [Interference Archive (IA) website](http://interferencearchive.org
 
 * What kinds of materials does IA host and do they have rights to it?
 * In reference to the article, how does IA see itself as “resisting the hierarchy”?
-* What levels of impact does IA aim to take into account?
+* What levels of impact does IA aim to take into account?  
+
+Discuss with your table, then share as a group.  
 
 [<<< Previous](impact2.md) | [Next >>>](impact3.md)
