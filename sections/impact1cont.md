@@ -18,10 +18,10 @@ For those doing work with big data, recommended reading: [Matthew Zook et al., "
 
 Some questions to consider:  
 
-- Is an avatar a person?
-- Is one’s digital information [e.g. photos, videos, audio, social media posts] an extension of the self?
-- Can we assume a person is wholly removed from large data pools?" *Note: "there is considerable evidence that even ‘anonymised’ datasets that contain enough personal information can result in individuals being identifiable"*
-- Does the connection between one’s online data and [their] physical person enable psychological, economic, or physical, harm? (AoIR)  
+> "Is an avatar a person?"
+> "Is one’s digital information [e.g. photos, videos, audio, social media posts] an extension of the self?"
+> "Can we assume a person is wholly removed from large data pools?" *Note: "there is considerable evidence that even ‘anonymised’ datasets that contain enough personal information can result in individuals being identifiable"*
+> "Does the connection between one’s online data and [their] physical person enable psychological, economic, or physical, harm?"   
 
 Source: [the 2012 Ethical Decision-Making and Internet Research report by the the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf)  
 
