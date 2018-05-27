@@ -6,7 +6,7 @@
 
 Some questions to consider:  
 
-> In an age of digital media, do we really have any privacy? ([Susan Barnes, “A Privacy Paradox,” 2006](http://firstmonday.org/article/view/1394/1312))  
+> "In an age of digital media, do we really have any privacy?" ([Susan Barnes, “A Privacy Paradox,” 2006](http://firstmonday.org/article/view/1394/1312))  
 
 - How do we delineate between "research" vs. "spying"?  Does this change when the project focuses on "big data"? (see [Berendt, Büchler, & Rockwell, “Is it Research or is it Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge Sciences,” 2015](https://people.cs.kuleuven.be/~bettina.berendt/Papers/berendt_buechler_rockwell_KUIN_2015.pdf))
 - What forms of "public" data are ethical to use? Or require attribution?
