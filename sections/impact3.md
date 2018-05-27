@@ -4,22 +4,21 @@
 
 ## Social, political, and economic impacts
 
-> At a third level of impact, we can consider **the social, economic, or political changes caused** by one’s research processes or products, in both the short and long term. ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
+> "At a third level of impact, we can consider **the social, economic, or political changes caused** by one’s research processes or products, in both the short and long term." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/), emphasis added)  
 
 Some questions to consider:
 
 - Whose **labor** and what **materials** are used to make the digital tools you use?  
 
-> the energy demands for digital daily life, a key source of big data for social science research, are significant in this era of climate change ... should researchers take the lead in asking cloud storage providers and data processing centers to shift to sustainable and renewable energy sources? ([Matthew Zook et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399))  
+> "the energy demands for digital daily life, a key source of big data for social science research, are significant in this era of climate change ... should researchers take the lead in asking cloud storage providers and data processing centers to shift to sustainable and renewable energy sources?" ([Matthew Zook et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399))  
 
 * Could your research or project be used to justify or facilitate potentially harmful **control** or **surveillance**?    
 
-> “The reason that we are subject now to more surveillance than there was in the Soviet Union is that digital technology made it possible. ... So when the program carries these four freedoms, the users control it, it respects their freedom, that's free software. But if one of these freedoms is missing or incomplete, then the program controls the users and the proprietor controls the program. Richard Stallman. [​​The Vanishing State of Privacy​](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy).
-
+> “The reason that we are subject now to more surveillance than there was in the Soviet Union is that digital technology made it possible. ... So when the program carries these four freedoms, the users control it, it respects their freedom, that's free software. But if one of these freedoms is missing or incomplete, then the program controls the users and the proprietor controls the program." ([Richard Stallman, "The Vanishing State of Privacy," 2017](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy)  
 
 * Could it influence **social or political discourse**? Modes of **profit**?
 
-> to what extent is a research project focused on enhancing the public good or the underserved of society? Are questions about equity or promoting other public values being addressed in one’s data streams, or is a big data focus rendering them invisible or irrelevant to your analysis [37]? How can increasingly vulnerable yet fundamentally important public resources—such as state-mandated cancer registries—be protected? How might research aid or inhibit different business and political actors? ([Matthew Zook, et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399))  
+> "to what extent is a research project focused on enhancing the public good or the underserved of society? Are questions about equity or promoting other public values being addressed in one’s data streams, or is a big data focus rendering them invisible or irrelevant to your analysis [37]? How can increasingly vulnerable yet fundamentally important public resources—such as state-mandated cancer registries—be protected? How might research aid or inhibit different business and political actors?" ([Matthew Zook, et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399))  
 
 These are *big* questions.  
 
@@ -27,7 +26,7 @@ A researcher should not be expected to have all the answers or predict the futur
 
 As Annette Markham reminds us, as discussed earlier in this session:  
 
-> an impact approach is targeted toward the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods. ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))  
+> "an impact approach is targeted toward the possible or probable impact, rather than the prevention of impact in the first place. It acknowledges that we change the world as we conduct even the smallest of scientific studies, and therefore, we must take some personal responsibility for our methods." ([Annette Markham, "OKCupid data release fiasco: It’s time to rethink ethics education," 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/))  
 
 ![close-up photo of a drop of water falling into a pool of water, creating a series of concentric ripples](../images/ripple.jpg)  
 Image source: [Sergiu Bacioiu from Romania, "Ripple effect on water," Wikimedia, Creative Commons Attribution 2.0 Generic license](https://commons.wikimedia.org/wiki/File:Ripple_effect_on_water.jpg)  
