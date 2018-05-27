@@ -54,17 +54,15 @@
 [Roshanak Kheshti, interviewed by Kelsey Chatlosh, "Interview: Sound recording, oral positionality, and audio as ethnographic object," 2018](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/)  
 [Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/)  
 
-## On public sharing and accessibility for differently abled people:
+## On accessibility and openness:
 
-[Samir Chopra and Scott Dexter, *Decoding Liberation: The Promise of Free and Open Source Software*, 2007](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)  
 [Patrick Smyth, "Materials for Open and Accessible: A Critical Distinction at Teach@CUNY Day"](https://github.com/pbsmyth/open_and_accessible)  
+[Samir Chopra and Scott Dexter, *Decoding Liberation: The Promise of Free and Open Source Software*, 2007](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)  
 [Creative Commons](https://creativecommons.org/)  
+[Shawn Lawton Henry, Shadi Abou-Zahra, and 	Judy Brewer, "The role of accessibility in a universal web," 2014](https://dl.acm.org/citation.cfm?doid=2596695.2596719)  
 [Dr. Joshua Miele’s](http://www.ski.org/users/joshua-miele) work on digital accessibility - see a review of his GC talk by Nanyamkah Mars [here](http://dh.prattsils.org/blog/resources/event-reviews/digital-accessibility-and-the-making-of-a-meta-maker-movement-a-talk-by-dr-joshua-miele-hosted-by-gc-digital-initiatives-at-the-graduate-center-cuny-on-thursday-october-20-2016/)  
 [George Williams, "Disability, Universal Design, and the Digital Humanities" in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/44)  
 [Tyler Zoanni, "Creating an Accessible Online Presentation," 2017](https://culanth.org/fieldsights/1335-creating-an-accessible-online-presentation)  
-
-## On accessibility in different languages:  
-
 [Humanidades Digitales Library Guide, prepared by The Graduate Center, CUNY, Library](https://libguides.gc.cuny.edu/c.php?g=405353&p=5674973)  
 
 ## On data security and management:  
