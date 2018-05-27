@@ -68,7 +68,7 @@
 ## On data security and management, and surveillance:  
 
 [Patrick Smyth, GCDI Information Security Workshop](https://github.com/smythp/security-workshop)  
-[Zeynep Tufekci,"Facebook’s Surveillance Machine," 2018](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html?smid=pl-share)  
+[Zeynep Tufekci, "Facebook’s Surveillance Machine," 2018](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html?smid=pl-share)  
 [Stephen Zweibel, Data Management (presentation), 2017](http://zweibel.net/presentations/data.html#/)  
 [Lindsay Lloyd-Smith, “Archaeology: Principles and Practices of Digital Data Management," 2016](http://www.americananthro.org/LearnAndTeach/Content.aspx?ItemNumber=20668)   
 
