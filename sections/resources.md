@@ -20,7 +20,7 @@
 [Michel Foucault, *The Archaeology of Knowledge and the Discourse on Language*, 1969](https://monoskop.org/images/9/90/Foucault_Michel_Archaeology_of_Knowledge.pdf)  
 [Dwight Conquergood, "Performance Studies: Interventions and Radical Research," 2002](http://www.csun.edu/~vcspc00g/301/psinterventions-tdr.pdf)  
 [Diana Taylor, *The Archive and the Repertoire*, 2003](https://www.dukeupress.edu/the-archive-and-the-repertoire)  
-[Donna Haraway, "Situated Knowledges," 1988](http://www.staff.amu.edu.pl/~ewa/Haraway,%20Situated%20Knowledges.pdf)  
+[Donna Haraway, "Situated Knowledges," 1988](https://msu.edu/~kg/874/Haraway_1988__Situated_Knowledges.pdf)  
 
 ## General information on digital ethics beyond compliance:
 
