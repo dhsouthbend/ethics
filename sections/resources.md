@@ -65,9 +65,10 @@
 [Tyler Zoanni, "Creating an Accessible Online Presentation," 2017](https://culanth.org/fieldsights/1335-creating-an-accessible-online-presentation)  
 [Humanidades Digitales Library Guide, prepared by The Graduate Center, CUNY, Library](https://libguides.gc.cuny.edu/c.php?g=405353&p=5674973)  
 
-## On data security and management:  
+## On data security and management, and surveillance:  
 
 [Patrick Smyth, GCDI Information Security Workshop](https://github.com/smythp/security-workshop)  
+[Zeynep Tufekci,"Facebook’s Surveillance Machine," 2018](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html?smid=pl-share)  
 [Stephen Zweibel, Data Management (presentation), 2017](http://zweibel.net/presentations/data.html#/)  
 [Lindsay Lloyd-Smith, “Archaeology: Principles and Practices of Digital Data Management," 2016](http://www.americananthro.org/LearnAndTeach/Content.aspx?ItemNumber=20668)   
 
