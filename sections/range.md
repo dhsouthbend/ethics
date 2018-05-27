@@ -48,6 +48,9 @@ Questions to consider:
 - Would you consider creating an Open Educational Resource (OER)?
 - Would you consider making any data related to your project publicly accessible? (and would this raise any anonymity, confidentiality or other ethical concerns?)
 
+A note on "free software" and user control from Richard Stallman:  
+> "According to Stallman, for software to qualify as free it must provide what he describes as 'four essential freedoms'. 'Freedom zero is to run the program however you wish, for whatever purpose you have. Freedom one is the freedom to study and change the source code’ … These two freedoms allows users to individually control their own copies of software, and tailor it to their needs, however … 'Collective control is the way that non-programmers can participate deciding what the program can do,' he explains. 'It requires two more freedoms: freedom two is to make exact unmodified copies and give or sell them to others when you wish. And freedom three is to make copies of your modified versions and give or sell them to others when you wish. So when the program carries these four freedoms, the users control it, it respects their freedom, that's free software. But if one of these freedoms is missing or incomplete, then the program controls the users and the proprietor controls the program'" ([Factor, interview with Richard Stallman, "The Vanishing State of Privacy," 2017](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy))  
+
 Sources to check out:
 
 [Patrick Smyth, "Materials for 'Open and Accessible: A Critical Distinction' at Teach@CUNY Day"](https://github.com/pbsmyth/open_and_accessible)  
