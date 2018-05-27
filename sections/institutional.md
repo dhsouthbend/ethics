@@ -11,6 +11,6 @@ Before delving into a deeper discussion of ethics beyond compliance, this first 
 
 ![a man in a lab coat pointing to his watch and saying "the IRB was taking too long so I did it without approval!" and then a super-hero dog with its arms in the air exclaiming "wrong! you can't bypass the IRB!"](../images/irbcomix.png)
 
-Source: This comic was created at [MakeBeliefsComix.com]((https://www.makebeliefscomix.com/). Create your own for free [here](https://www.makebeliefscomix.com/).
+Source: This comic was created at [MakeBeliefsComix.com](https://www.makebeliefscomix.com/). Create your own for free [here](https://www.makebeliefscomix.com/).
 
 [<<< Previous](introduction.md) | [Next >>>](belmont.md)
