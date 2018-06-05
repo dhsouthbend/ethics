@@ -2,9 +2,9 @@
 
 # Institutional Review Board (IRB)   
 
-The policies and principals stipulated in the Belmont Report largely inform those of the Institutional Review Board (IRB).  
+The policies and principles stipulated in the Belmont Report largely inform those of an Institutional Review Board (IRB).  
 
-Every university or research institution should have its own or an affiliated IRB, which provides oversight, administrative support, and educational training to ensure that research done at that location complies with federal and state regulations, and university or institutional policy.  
+Every university or research institution must, legally, have its own or an affiliated IRB. The IRB is intended to provide oversight, administrative support, and educational training to ensure that research done at that location complies with federal and state regulations, and university or institutional policy.  
 
 ## When is IRB review required?  
 
