@@ -4,7 +4,9 @@
 
 ## What is universal design? What is accessibility?
 
-> "'Universal design' is the process of creating products that are usable by people with the widest possible range of abilities, operating within the widest possible range of situations; whereas 'accessibility' primarily refers to design for people with disabilities. While the focus of accessibility is disabilities, research and development in accessibility brings benefits to everyone, particularly users with situational limitations, including device limitations and environmental limitations." ([Shawn Lawton Henry, et al., "The role of accessibility in a universal web," 2014](https://dl.acm.org/citation.cfm?doid=2596695.2596719))
+> "'Universal design' is the process of creating products that are usable by people with the widest possible range of abilities, operating within the widest possible range of situations; whereas 'accessibility' primarily refers to design for people with disabilities. While the focus of accessibility is disabilities, research and development in accessibility brings benefits to everyone, particularly users with situational limitations, including device limitations and environmental limitations." ([Shawn Lawton Henry, et al., "The role of accessibility in a universal web," 2014](https://dl.acm.org/citation.cfm?doid=2596695.2596719))  
+
+In this workshop, while I appreciate the aims of a universal design approach and especially its goal to design products that are usable across the widest possible range of people and contexts, I continue to use the term "accessibility," given that it is quite difficult to make anything truly universally accessible, across differences of, for example, institutional access, location, wealth, nationality, language abilities, mental and physical abilites, etc.  
 
 ## Approaching accessibility
 
