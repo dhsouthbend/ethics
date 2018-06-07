@@ -1,4 +1,4 @@
-[<<< Previous](cases.md)  
+[<<< Previous](glossary.md)  
 
 # Resources on ethics for digital projects and research
 
@@ -132,5 +132,5 @@ Cultural Anthropology Student
 Kchatlosh@gradcenter.cuny.edu  
 She / her  
 
-[<<< Previous](cases.md)  
+[<<< Previous](glossary.md)  
 [<<< Return to beginning](https://github.com/DHRI-Curriculum/ethics)  
