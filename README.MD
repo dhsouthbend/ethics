@@ -30,6 +30,7 @@ By the end of this workshop, participants will:
 [Range of Impact](sections/range.md)  
 [Additional Case Examples](sections/cases.md)  
 [Review](sections/review.md)  
+[Review](sections/glossary.md)  
 [Resources](sections/resources.md)  
 
 -----
