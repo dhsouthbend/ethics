@@ -26,7 +26,12 @@
 
 [Annette Markham, “OKCupid data release fiasco: It’s time to rethink ethics education,” 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)  
 [Casey Fiesler, table of "Tech Ethics Curricula" - including links to syllabi](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)  
+
+## Critical technology, coding, and/or computation studies or practice groups:  
+
 [FemTechNet](https://femtechnet.org/)  
+[Critical Code Studies Working Group](http://wg18.criticalcodestudies.com/)  
+[School for Poetic Computation](http://sfpc.io/)  
 
 ## On internet, social media and "big data" research ethics:
 
