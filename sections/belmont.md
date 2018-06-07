@@ -1,6 +1,6 @@
 [<<< Previous](institutional.md) | [Next >>>](irb.md)
 
-# The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, and the Belmont Report 
+# The Belmont Report 
 
 The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, created as a result of the National Research Act of 1974, published the Belmont Report in 1979.   
 
