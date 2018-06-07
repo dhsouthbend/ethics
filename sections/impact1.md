@@ -22,7 +22,7 @@ Some commonly blurred definitions, according to the 2012 Ethical Decision-Making
 
 > "Is an avatar a person? Is one’s digital information an extension of the self? ... Can we assume a person is wholly removed from large data pools? ... there is considerable evidence that even ‘anonymised’ datasets that contain enough personal information can result in individuals being identifiable ... **Does the connection between one’s online data and his or her physical person enable psychological, economic, or physical, harm?** One way of evaluating the extent to which these ethical dilemmas may be hidden is to focus on the way that procedures for data collection or analysis extract data from lived experience."  
 
-Source: [the 2012 Ethical Decision-Making and Internet Research report by the the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf), emphases added    
+Source: [the 2012 Ethical Decision-Making and Internet Research report by the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf), emphases added    
 
 ## Human subjects & the “distance principle”
 
