@@ -1,4 +1,4 @@
-[<<< Previous](cases.md) | [Next >>>](resources.md)
+[<<< Previous](cases.md) | [Next >>>](glossary.md)
 
 # Review  
 
@@ -30,6 +30,7 @@ By the end of this workshop, participants have:
 - Is your research free and open or proprietary?
 - Is your research accessible?
 
-Refer to the following [Resources](resources.md) page for further readings, projects, and advice.
+Refer to the following [Glossary](glossary.md) page for a review of key terms, and to the [Resources](resources.md) page after it for further readings, projects, and advice.
 
-[<<< Previous](cases.md) | [Next >>>](resources.md)
+[<<< Previous](cases.md) | [Next >>>](glossary.md)  
+[<<< Return to the beginning](https://github.com/DHRI-Curriculum/ethics)
