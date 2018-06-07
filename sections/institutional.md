@@ -6,7 +6,7 @@ We are scholars, so first things first: understanding any institutional complian
 
 Before delving into a deeper discussion of ethics beyond compliance, this first section of the workshop will address:
 
-- The Belmont Report and Institutional Review Board (IRB)—a brief history of them and their intentions *their core principals may be useful to think through even if you are free to skip the logistical hassle of applying for IRB!*
+- The Belmont Report and Institutional Review Board (IRB)—a brief history of them and their intentions; *their core principals may be useful to think through even if you are free to skip the logistical hassle of applying for IRB!*
 - How to know if you will need to get IRB approval  
 
 ![a man in a lab coat pointing to his watch and saying "the IRB was taking too long so I did it without approval!" and then a super-hero dog with its arms in the air exclaiming "wrong! you can't bypass the IRB!"](../images/irbcomix.png)
