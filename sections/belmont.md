@@ -1,12 +1,13 @@
 [<<< Previous](institutional.md) | [Next >>>](irb.md)
 
-# Belmont Report 
+# The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, and the Belmont Report 
 
 The National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research, created as a result of the National Research Act of 1974, published the Belmont Report in 1979.   
 
-Incidents that prompted these reforms:      
-
+Attention to and outrage at the harm done to people during a few particularly unethical research studies prompted the commission to be formed; especially, for example:  
 * [Tuskegee Syphillis Study (1932-1972)](https://www.cdc.gov/tuskegee/index.html)  
+
+Prior ethical research standards, particularly those listed below, also informed the Belmont Report's formulation of ethical principles and guidelines:  
 * [Nuremberg Code (1948)](https://history.nih.gov/research/downloads/nuremberg.pdf)  
 * [Declaration of Helsinki (1964)](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/)   
 
