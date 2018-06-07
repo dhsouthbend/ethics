@@ -17,9 +17,11 @@ Categories are key to digital tools in many ways: the classification systems use
 
 Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
 
-## Human biases and disregard
+## Systems of oppression, human input, and digitized/computed output 
 
-**Human beings** are making decisions that inform how these groupings are being made.
+**Human beings** are making decisions that inform how these groupings are being made. 
+
+The United States, for example, is a society shaped by dominant systems of oppression such as white supremacy, settler colonialism, and cis-hetero-patriarchy. These oppresive systems effect—sometimes intentionally, sometimes not—the decisions people make when they create digital platforms or tools (or anything for that matter!), and thus also shape the output that results from these digital platforms or tools or their computations.  
 
 > "Writing a presentation on library cataloging and classification & realizing that there is nothing serendipitous about serendipitous browsing. As with everything else, someone *decided* where the book you found on the shelf would land. Someone with biases because we all have them" (Jenna Freedman @zinelib on Twitter, shared here with her permission. Also see: [Jenna Freedman, "Library Cataloging and Classification: Reifying the Default," 2018](https://lowereastsidelibrarian.info/talks/2018/moma))  
 
