@@ -1,4 +1,5 @@
 [<<< Previous](glossary.md)  
+[<<< Return to beginning](https://github.com/DHRI-Curriculum/ethics)  
 
 # Resources on ethics for digital projects and research
 
