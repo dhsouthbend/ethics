@@ -19,6 +19,8 @@
 [Antonio Gramsci, various writings](https://www.marxists.org/archive/gramsci/)  
 [Michel Foucault, "Panopticism," 1977](http://dm.ncl.ac.uk/courseblog/files/2011/03/michel-foucault-panopticism.pdf)  
 [Michel Foucault, *The Archaeology of Knowledge and the Discourse on Language*, 1969](https://monoskop.org/images/9/90/Foucault_Michel_Archaeology_of_Knowledge.pdf)  
+Patricia Hill Collins, *Black Feminist Thought*, 1999  
+[Shay-Akil, Decolonize ALL The Things](https://decolonizeallthethings.com/)  
 [Dwight Conquergood, "Performance Studies: Interventions and Radical Research," 2002](http://www.csun.edu/~vcspc00g/301/psinterventions-tdr.pdf)  
 [Diana Taylor, *The Archive and the Repertoire*, 2003](https://www.dukeupress.edu/the-archive-and-the-repertoire)  
 [Donna Haraway, "Situated Knowledges," 1988](https://msu.edu/~kg/874/Haraway_1988__Situated_Knowledges.pdf)  
