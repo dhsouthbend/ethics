@@ -34,15 +34,19 @@ Source: [HHS.gov](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report
 Source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)  
 
 ## Key concerns when applying the 3 principles:
-
-<img src="../images/consent_pp.png" width=400 alt="This image reads CONSENT at the top, above a picture of french friends in a box that is labelled: I heart FRIES. Next to the picture of french fries are the words: Freely given, Reversible, Informed, Enthusiastic, Specific. Planned Parenthood is written at the bottom" >  
-
-Source: 
-[Planned Parenthood Tumblr page](http://plannedparenthood.tumblr.com/post/148506806862/understanding-consent-is-as-easy-as-fries-consent)  
+ 
 1. **Informed consent**
 	* Information, not deception
 	* Comprehension
 	* Voluntariness & right to withdraw  
+	* *In other words, according to Planned Parenthood's theorization:* 
+		* *"Understanding consent is as easy as FRIES. Consent is:*  
+			* ***F**reely given*  
+			* ***R**eversible*  
+			* ***I**nformed*  
+			* ***E**nthusiastic*  
+			* ***S**pecific"*  
+		* *Source: [Planned Parenthood Tumblr page](http://plannedparenthood.tumblr.com/post/148506806862/understanding-consent-is-as-easy-as-fries-consent)*  
 
 2. **Assessment of risks and benefits**
 	* The nature and scope of risks and benefits-always minimize risk of harm!
@@ -52,7 +56,7 @@ Source:
 3. **Selection of subjects**
 	* Fair recruitment and selection 
 
-Source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)  
+Source (except the Planned Parenthood quotation): [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)  
 
 ******
 
