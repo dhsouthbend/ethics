@@ -49,4 +49,3 @@ Please see below a list of key terms and concepts, provided in alphabetical orde
 ******
 
 [<<< Previous](review.md) | [Next >>>](resources.md)  
-[<<< Return to beginning](https://github.com/DHRI-Curriculum/ethics)  
