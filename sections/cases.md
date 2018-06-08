@@ -24,7 +24,7 @@ Check out [ProPublica’s](https://www.propublica.org/) project [“Breaking the
 * What levels of impact does it aim to take into account?
 * Does this project involve “human subjects”?
 
-Also check out - ProPublica's series of articles on ["Machine Bias: Investigating Algorithmic Injustice"](https://www.propublica.org/series/machine-bias/)
+Also check out: ProPublica's series of articles on ["Machine Bias: Investigating Algorithmic Injustice"](https://www.propublica.org/series/machine-bias/)
 
 ******
 
