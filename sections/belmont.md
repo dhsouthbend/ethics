@@ -35,6 +35,10 @@ Source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/bel
 
 ## Key concerns when applying the 3 principles:
 
+<img src="../images/consent_pp.png" width=400 alt="This image reads CONSENT at the top, above a picture of french friends in a box that is labelled: I heart FRIES. Next to the picture of french fries are the words: Freely given, Reversible, Informed, Enthusiastic, Specific. Planned Parenthood is written at the bottom" >  
+
+Source: 
+[Planned Parenthood Tumblr page](http://plannedparenthood.tumblr.com/post/148506806862/understanding-consent-is-as-easy-as-fries-consent)  
 1. **Informed consent**
 	* Information, not deception
 	* Comprehension
