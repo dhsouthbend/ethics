@@ -22,11 +22,13 @@ By the end of this workshop, participants have:
 
 - What are the three levels of impact that we discussed?
 - What does range of impact refer to?
+- Which will you consider?
 - What impacts may your research/project have?  
 
 ### Reassess your research methodology
 
-- How will the above affect your research/project methods and design?
+- How will the above affect your research/project methods and design?  
+- How will you (and your team) be accountable to possible harms?  
 - Is your research free and open, or proprietary?
 - Is your research accessible? To whom, and in what contexts?  
 
