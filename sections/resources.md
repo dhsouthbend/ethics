@@ -122,7 +122,7 @@ Marisa Elena Duarte, *Network Sovereignty: Building the Internet across Indian C
 [Sasha Costanza-Chock, *Out of the Shadows, Into the Streets! Transmedia Organizing and the Immigrant Rights Movement*, 2014](https://mitpress.mit.edu/books/out-shadows-streets)  
 [Aimee Cox, "The Choreography of Survival," 2015](https://culanth.org/fieldsights/690-the-choreography-of-survival)  
 Melissa Checker, "Stop FEMA Now: Social media, activism and the sacrificed citizen," 2016  
-Jarret Martineau, "Rhythms of Change: Mobilizing Decolonial Consciousness, Indigenous Resurgence and the Idle No More Movement," in *More Will Sing Their Way to Freedom: Indigenous Resistance and Resurgence*, ed. Elaine Coburn, 2015](https://fernwoodpublishing.ca/book/more-will-sing-their-way-to-freedom)  
+Jarret Martineau, "Rhythms of Change: Mobilizing Decolonial Consciousness, Indigenous Resurgence and the Idle No More Movement," in *More Will Sing Their Way to Freedom: Indigenous Resistance and Resurgence*, ed. Elaine Coburn, 2015  
 
 ******
 
