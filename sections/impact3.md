@@ -8,7 +8,7 @@
 
 Some questions to consider:
 
-- Whose **labor** and what **materials** are used to make the digital tools you use?  
+- Whose **labor** and what **materials** are used to make the digital tools you use? How should we (those who benefit from the labor of other people) attribute others' labor? How can we (users of these tools) be held accountable?  
 
 > "the energy demands for digital daily life, a key source of big data for social science research, are significant in this era of climate change ... should researchers take the lead in asking cloud storage providers and data processing centers to shift to sustainable and renewable energy sources?" ([Matthew Zook et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399))  
 
