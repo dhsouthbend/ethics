@@ -13,17 +13,18 @@
 [Regulations and Policy in the US, compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/regulations-and-policy)  
 [International Compilation of Human Research Standards (by country), compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/international/compilation-human-research-standards/index.html)  
 
-## Key works (among many more!) on the politics of knowledge production and forms of knowledge:
+## Key works (among many more!) on power, the politics of knowledge production, and forms of knowledge:
 
-[Stuart Hall et al., *Policing the Crisis: Mugging, the State, and Law and Order*, 1978](https://colectivociajpp.files.wordpress.com/2012/08/stuart-hall-etc-policing-the-crisis-mugging-the-state-and-law-and-order-critical-social-studies-1978.pdf)  
+Stuart Hall et al., *Policing the Crisis: Mugging, the State, and Law and Order*, 1978  
 [Antonio Gramsci, various writings](https://www.marxists.org/archive/gramsci/)  
-[Michel Foucault, "Panopticism," 1977](http://dm.ncl.ac.uk/courseblog/files/2011/03/michel-foucault-panopticism.pdf)  
-[Michel Foucault, *The Archaeology of Knowledge and the Discourse on Language*, 1969](https://monoskop.org/images/9/90/Foucault_Michel_Archaeology_of_Knowledge.pdf)  
+Michel Foucault, "Panopticism," 1977  
+Michel Foucault, *The Archaeology of Knowledge and the Discourse on Language*, 1969   
 Patricia Hill Collins, *Black Feminist Thought*, 1999  
-[Shay-Akil, Decolonize ALL The Things](https://decolonizeallthethings.com/)  
+[Shay-Akil, Decolonize ALL The Things (website)](https://decolonizeallthethings.com/)  
+Patrick Wolfe, "Settler colonialism and the elimination of the native," 2006  
 [Dwight Conquergood, "Performance Studies: Interventions and Radical Research," 2002](http://www.csun.edu/~vcspc00g/301/psinterventions-tdr.pdf)  
-[Diana Taylor, *The Archive and the Repertoire*, 2003](https://www.dukeupress.edu/the-archive-and-the-repertoire)  
-[Donna Haraway, "Situated Knowledges," 1988](https://msu.edu/~kg/874/Haraway_1988__Situated_Knowledges.pdf)  
+Diana Taylor, *The Archive and the Repertoire*, 2003  
+Donna Haraway, "Situated Knowledges," 1988  
 
 ## General information on digital ethics beyond compliance:
 
@@ -43,14 +44,14 @@ Patricia Hill Collins, *Black Feminist Thought*, 1999
 [Bettina Berendt, Marco Büchler, and Geoffrey Rockwell, “Is it Research or is it Spying? Thinking-Through Ethics in Big Data AI and Other Knowledge Sciences,” 2015)](http://theoreti.ca/?p=5729)  
 [Michael Zimmer and Katharina Kinder-Kurlanda, editors, *Internet Research Ethics for the Social Age: New Challenges, Cases, and Contexts*, 2017](https://www.scribd.com/document/360717441/Internet-Research-Ethics-for-the-Social-Age-New-Challenges-Cases-and-Contexts-Full)  
 [Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation," 2017](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
-[Safiya Umoja Noble, *The Intersectional Internet: Race, Sex, Class, and Culture Online*, 2016](https://www.amazon.com/dp/1433130009/ref=cm_sw_r_sms_awd_d_JdrqxbYHPQSAT)  
+Safiya Umoja Noble, *The Intersectional Internet: Race, Sex, Class, and Culture Online*, 2016  
 [Matthew Zook, Solon Barocas, danah boyd, Kate Crawford, Emily Keller, Seeta Peña Gangadharan, Alyssa Goodman, Rachelle Hollander, Barbara A. Koenig, Jacob Metcalf, Arvind Narayanan, Alondra Nelson, Frank Pasquale, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
 [Jason Young and Michael Gilmore, "Subaltern Empowerment in the Geoweb: Tensions between Publicity and Privacy," 2014](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.12056)  
 
 ## On ethics, algorithms and databases:
 
 [Tarleton Gillespie and Nick Seaver, Critical Algorithm Studies: a Reading List, 2016](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)  
-[Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018](https://nyupress.org/books/9781479837243/)  
+Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018  
 [Cathy O'Neil, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016](https://weaponsofmathdestructionbook.com/)  
 [Julia Angwen and Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)  
 [ProPublica's series of articles on "Machine Bias: Investigating Algorithmic Injustice"](https://www.propublica.org/series/machine-bias/)  
@@ -108,8 +109,8 @@ Patricia Hill Collins, *Black Feminist Thought*, 1999
 
 [Design for Diversity project](http://dsg.neu.edu/research/design-for-diversity/about/)  
 [Siobhan Senier, “Indigenizing Wikipedia,” 2015](http://epress.trincoll.edu/webwriting/chapter/senier/)  
-[Angela Haas, “Wampum as Hypertext,” 2007](https://muse.jhu.edu/article/235980)  
-[Marisa Elena Duarte, *Network Sovereignty: Building the Internet across Indian Country*, 2017](http://www.washington.edu/uwpress/search/books/DUANET.html)  
+Angela Haas, “Wampum as Hypertext,” 2007  
+Marisa Elena Duarte, *Network Sovereignty: Building the Internet across Indian Country*, 2017  
 [The #StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)  
 [Native-Land.ca (mapping project)](https://native-land.ca/)  
 [Invasion of America: How the United States Took Over an Eighth of the World (mapping project)](http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6) 
@@ -120,8 +121,8 @@ Patricia Hill Collins, *Black Feminist Thought*, 1999
 [Zeynep Tufekci, *Twitter and Teargas: The Power and Fragility of Networked Protest*, 2017](https://www.twitterandteargas.org/)  
 [Sasha Costanza-Chock, *Out of the Shadows, Into the Streets! Transmedia Organizing and the Immigrant Rights Movement*, 2014](https://mitpress.mit.edu/books/out-shadows-streets)  
 [Aimee Cox, "The Choreography of Survival," 2015](https://culanth.org/fieldsights/690-the-choreography-of-survival)  
-[Melissa Checker, "Stop FEMA Now: Social media, activism and the sacrificed citizen," 2016](http://www.sciencedirect.com/science/article/pii/S0016718516301750)  
-[Jarret Martineau, "Rhythms of Change: Mobilizing Decolonial Consciousness, Indigenous Resurgence and the Idle No More Movement," in *More Will Sing Their Way to Freedom: Indigenous Resistance and Resurgence*, ed. Elaine Coburn, 2015](https://fernwoodpublishing.ca/book/more-will-sing-their-way-to-freedom)  
+Melissa Checker, "Stop FEMA Now: Social media, activism and the sacrificed citizen," 2016  
+Jarret Martineau, "Rhythms of Change: Mobilizing Decolonial Consciousness, Indigenous Resurgence and the Idle No More Movement," in *More Will Sing Their Way to Freedom: Indigenous Resistance and Resurgence*, ed. Elaine Coburn, 2015](https://fernwoodpublishing.ca/book/more-will-sing-their-way-to-freedom)  
 
 ******
 
