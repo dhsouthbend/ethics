@@ -17,9 +17,9 @@ Categories are key to digital tools in many ways: the classification systems use
 
 Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
 
-## Bias in, Bias out: Systems of oppression and inputting human bias
+## Bias in, bias out: systems of oppression and inputting human bias
 
-**Human beings** are making decisions that inform how these groupings are being made. Technology is not unbiased, but rather will inevitably represent the decisions of its human creators who each create from their own situated standpoints - personally, socially, and historically. While decisions made by algorithms are often presented as free of the personal value judgments that a loan officer or judge might apply to loan candidates or in determining the length of a prisoner's sentence, they can still reproduce the bias evident in the data the algorithm is trained on. 
+**Human beings** are making decisions that inform how these groupings are being made. Technology is not unbiased, but rather will inevitably represent the decisions of its human creators who each create from their own situated standpoints—personally, socially, and historically. While decisions made by algorithms are often presented as free of the personal value judgments that a loan officer or judge might apply to loan candidates or in determining the length of a prisoner's sentence, for example, they can still reproduce the bias evident in the data the algorithm is trained on. 
 
 The United States, for example, is a society shaped by dominant systems of oppression such as *white supremacy*, *settler colonialism*, and *cis-hetero-patriarchy* (see the [Glossary](glossary.md) for definitions). These oppressive systems effect—sometimes intentionally, sometimes not—the decisions people make when they create digital platforms or tools (or anything for that matter!) and the parameters of what is permitted/supported/funded to be created and shared, and thus also shape the output that results from these digital platforms or tools or their computations. 
 
@@ -27,9 +27,9 @@ The United States, for example, is a society shaped by dominant systems of oppre
 
 > "Human beings are developing the digital platforms we use, and as I present evidence of the recklessness and lack of regard that is often shown to women and people of color in some of the output of these systems, it will become increasingly difficult for technology companies to separate their systematic and inequitable employment practices, and the far-right ideological bents of some of their employees, from the products they make for the public." ([Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018, page 2](https://nyupress.org/books/9781479837243/))  
 
-In the fields of AI and Data Science, the phrase ["junk in, junk out"](https://medium.com/source-institute/with-ai-and-data-its-junk-in-junk-out-18b33e8f391e) is used to describe the the fact that predictive models take into account the data that is provided to them by their human creators, and then extrapolate to possible futures. Often this data is incomplete, faulty, or messy in a way in which the results are considered "junk," because the data input to the model was "junk." 
+In the fields of Artificial Intelligence (AI) and Data Science, the phrase ["junk in, junk out"](https://medium.com/source-institute/with-ai-and-data-its-junk-in-junk-out-18b33e8f391e) (Eric David Halsey 2016), is used to describe the the fact that predictive models take into account the data that is provided to them by their human creators, and then extrapolate to possible futures. Often this data is incomplete, faulty, or messy in a way in which the results are considered "junk," because the data input to the model was "junk." 
 
-For example, many scholars and activists have critiqued the use of existing data on policing, arrests, and recidivism in algorithms that try to predict future criminal behavior. Because the data being input to the model is based on past policing practices that include the over-policing of communities of color and low-income people, that data is biased against those groups and thus will reproduce the existing bias in its predictions of future activities. For a deeper dive, you can read more in [this article](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project) that shows how predictive policing is not value-free and unbiased. 
+For example, many scholars and activists have critiqued the use of existing data on policing, arrests, and recidivism in algorithms that try to predict future criminal behavior. Because the data being input to the model is based on past policing practices that include the over-policing of communities of color and low-income people, that data is biased against those groups and thus will reproduce the existing bias in its predictions of future activities. For a deeper dive, you can read more in [this article](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project) (Maurice Chammah and Mark Hanson 2016) that shows how predictive policing is *not* value-free and unbiased. 
 
 ## Attempts to "resist the hierarchy"  
 
@@ -37,7 +37,7 @@ A question to consider:
 
 Can categorical hierarchies and existing bias be resisted through digital projects? If such resistance is possible, how can it be achieved?
 
-As scholars, we have a responsibility to think critically about how do or do not reproduce existing biases in the canons we reference, the data we use, and the conclusions we reach. Some projects that have tried to produce new, less-biased representations include: 
+As scholars, we have a responsibility to think critically about how we do or do not reproduce existing biases in the canons we reference, the data we use, and the conclusions we reach. Some projects that have tried to produce new, less-biased representations include: 
 
 - [The #StandingRockSyllabus](https://nycstandswithstandingrock.wordpress.com/standingrocksyllabus/)  
 - [The Zine Librarians Code of Ethics](http://zinelibraries.info/code-of-ethics/)  
