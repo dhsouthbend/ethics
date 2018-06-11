@@ -16,7 +16,7 @@ Projects or research that engage with the digital—i.e. that examine, use, or c
 
 ## Situated ethics
 
-**Situated ethics** refers to the notion that a person's understandings of and commitments to ethics or morality are greatly linked to their own experiences, positionalities, and political orientations. "Situated ethics" draws on Donna Haraway's concept of *Situated Knowledges* (1988), which argues that all ideas, whether in science, the humanities, or personal convictions, are created from and are inherently representative of the conceptualizer's particular situated standpoint.
+**Situated ethics** refers to the notion that a person's understandings of and commitments to ethics or morality are greatly linked to their own experiences, positionalities, and political orientations, as well as the particular context in which that person is putting such ethics into practice (see Helen Simons and Robin Usher, *Situated Ethics in Educational Research*, 2000). "Situated ethics" draws on Donna Haraway's concept of *Situated Knowledges* (1988), which argues that all ideas, whether in science, the humanities, or personal convictions, are created from and are inherently representative of the conceptualizer's particular situated standpoint.
 
 As Haraway eloquently argues:
 
