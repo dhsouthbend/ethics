@@ -59,6 +59,8 @@ Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Raci
 [The Policing in Chicago Research Group, "Tracked and Targeted: Early Findings on Chicago's Gang Database," 2018](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf)  
 [Darren Abramson and Lee Pike, "When Formal Systems Kill: Computer Ethics and Formal Methods," 2011](https://www.cs.indiana.edu/~lepike/pubs/fm-ethics.pdf)  
 [Anna Lauren Hoffmann, "Data Violence and How Bad Engineering Choices Can Damage Society," 2018](https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4)  
+[Maurice Chammah, with additional reporting by Mark Hansen, "Policing the Future: In the aftermath of Ferguson, St. Louis cops embrace crime-predicting software," 2016](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project)  
+[Eric David Halsey, "With AI and Data, it’s 'Junk in, Junk Out,'" 2017](https://medium.com/source-institute/with-ai-and-data-its-junk-in-junk-out-18b33e8f391e)  
 [Roshanak Kheshti, interviewed by Kelsey Chatlosh, "Interview: Sound recording, oral positionality, and audio as ethnographic object," 2018](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/)  
 [Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/)  
 
