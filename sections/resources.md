@@ -25,6 +25,7 @@ Patrick Wolfe, "Settler colonialism and the elimination of the native," 2006
 [Dwight Conquergood, "Performance Studies: Interventions and Radical Research," 2002](http://www.csun.edu/~vcspc00g/301/psinterventions-tdr.pdf)  
 Diana Taylor, *The Archive and the Repertoire*, 2003  
 Donna Haraway, "Situated Knowledges," 1988  
+Helen Simons and Robin Usher, editors, *Situated Ethics in Educational Research*, 2000  
 
 ## General information on digital ethics beyond compliance:
 
