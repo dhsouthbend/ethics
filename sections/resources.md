@@ -52,6 +52,7 @@ Safiya Umoja Noble, *The Intersectional Internet: Race, Sex, Class, and Culture 
 ## On ethics, algorithms and databases:
 
 [Tarleton Gillespie and Nick Seaver, Critical Algorithm Studies: a Reading List, 2016](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)  
+Meredith Broussard, *Artificial Unintelligence: How Computers Misunderstand the World*, 2018  
 Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018  
 [Cathy O'Neil, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016](https://weaponsofmathdestructionbook.com/)  
 [Julia Angwen and Jeff Larson, "Bias in Criminal Risk Scores Is Mathematically Inevitable, Researchers Say," 2016](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)  
