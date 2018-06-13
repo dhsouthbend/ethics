@@ -22,6 +22,8 @@ As Haraway eloquently argues:
 
 > "I would like to insist on the embodied nature of all vision, and so reclaim the sensory system that has been used to signify a leap out of the marked body and into a conquering gaze from nowhere. This is the gaze that mythically inscribes all the marked bodies, that makes the unmarked category claim the power to see and not be seen, to represent while escaping representation. This gaze signifies the unmarked positions of Man and White, one of the many nasty tones of the word objectivity to feminist ears in scientific and technological, late industrial, militarized, racist and male dominant societies, that is, here, in the belly of the monster, in the United States in the late 1980s. I would like a doctrine of embodied objectivity  that accommodates paradoxical and critical feminist science projects: feminist objectivity means quite simply situated knowledges." (Donna Haraway, "Situated Knowledges," 1988, page 581)  
 
-Situated ethics thus argues that ethical concerns will vary amongst people, disciplines, projects, tools, and contexts depending on the particular situated perspective of that person, group, or project.
+Situated ethics thus argues that ethical concerns will vary amongst people, disciplines, projects, tools, and contexts depending on the particular situated perspective of that person, group, or project.  
+
+Thinking through how ethical ideas and practices, or lack thereof, are situated may prompt questions such as: How were computers developed? By whom? Where? Why? As Meredith Broussard argues in *Artificial Unintelligence* (2018), a "particular strain of white, male bias," to which I'd add United States and Euro-centric, runs deep in tech (page 79).  
 
 [<<< Previous](https://github.com/DHRI-Curriculum/ethics) | [Next >>>](institutional.md)
