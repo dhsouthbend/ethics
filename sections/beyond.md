@@ -8,13 +8,13 @@ To do so, I would argue, requires thinking with and beyond the institutional req
 
 ## Activity  
 
-Think about the digital project or research you are or will be working on.  
+Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
 
-1. Describe in 2-3 sentences to a non-expert audience the purpose of your project: what does it aim to *do*?  
-2. Next, describe in 2-3 sentences to a non-expert audience the design of your project: *how* will you do this?  
-3. In relation to the project's purpose and design, what might be some ethical concerns that fall beyond questions of legality or the purview of the IRB?  
+1. In 1 minute each, what is the *purpose* of your project—what does it *aim* to do?
+2. In 1 minute each, what is the *design* of your project—*how* will you do this?
+3. In relation to each of your projects' purpose and design, what might be some ethical concerns that fall beyond questions of legality or the purview of the IRB?
 
-Pair up with another person near you and discuss. Share as a class.  
+Share as a class.  
 
 [<<< Previous](irb.md) | [Next >>>](levelsimpact.md)
 
