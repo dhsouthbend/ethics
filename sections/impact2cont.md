@@ -29,7 +29,11 @@ The United States, for example, is a society shaped by dominant systems of oppre
 
 In the fields of Artificial Intelligence (AI) and Data Science, the phrase ["junk in, junk out"](https://medium.com/source-institute/with-ai-and-data-its-junk-in-junk-out-18b33e8f391e) (Eric David Halsey, 2017), is used to describe the the fact that predictive models take into account the data that is provided to them by their human creators, and then extrapolate to possible futures. Often this data is incomplete, faulty, or messy in a way in which the results are considered "junk," because the data input to the model was "junk." 
 
-For example, many scholars and activists have critiqued the use of existing data on policing, arrests, and recidivism in algorithms that try to predict future criminal behavior. Because the data being input to the model is based on past policing practices that include the over-policing of communities of color and low-income people, that data is biased against those groups and thus will reproduce the existing bias in its predictions of future activities. For a deeper dive, you can read more in [this article](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project) (Maurice Chammah, 2016) that shows how predictive policing is *not* value-free and unbiased. 
+For example, many scholars and activists have critiqued the use of existing data on policing, arrests, and recidivism in algorithms that try to predict future criminal behavior. Because the data being input to the model is based on past policing practices that include the over-policing of communities of color and low-income people, that data is biased against those groups and thus will reproduce the existing bias in its predictions of future activities. For a deeper dive, you can read more in [this article](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project) (Maurice Chammah, 2016) that shows how predictive policing is *not* value-free and unbiased.  
+
+<img src="../images/bias.png" width=600 alt="A graphic with the words 'bias in' next to an arrow pointing into the left side of a box, and then another arrow pointing out of the box on the right side towards the words 'bias out'">
+
+Image source: Created by author in MS PowerPoint.  
 
 ## Attempts to "resist the hierarchy"  
 
