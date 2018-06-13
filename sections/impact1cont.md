@@ -35,7 +35,7 @@ Review Joshua Tabak and Vivian Zayas's [academic article](http://journals.plos.o
 * Is a social media photo of oneself an extension of the self? 
 * Does their methodology raise any ethical concerns?
 
-Discuss as a table, then share as a group.  
+Discuss with your table, then share as a group.  
 
 Further reading: [Patrick Sweeney, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation," 2017](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
 
