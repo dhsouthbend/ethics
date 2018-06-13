@@ -74,7 +74,7 @@ When might researchers or makers decide *not* to even record data or media, or t
 
 ## Activity  
 
-Think about the digital project or research you are or will be working on. 
+Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
 
 - Who will be able to access your research or project? 
 - Where and through what media will it be accessible?
@@ -82,6 +82,6 @@ Think about the digital project or research you are or will be working on.
 - Will it be accessible in different languages?  
 - Will it be accessible to people with visual, hearing, mobility, or other physical, sensory, or cognitive disabilities?
 
-Pair up with another person near you and discuss. Share as a class.  
+Share as a class.  
 
 [<<< Previous](impact3.md) | [Next >>>](cases.md)
