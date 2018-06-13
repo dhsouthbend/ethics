@@ -65,6 +65,7 @@ Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Raci
 [Eric David Halsey, "With AI and Data, it’s 'Junk in, Junk Out,'" 2017](https://medium.com/source-institute/with-ai-and-data-its-junk-in-junk-out-18b33e8f391e)  
 [Roshanak Kheshti, interviewed by Kelsey Chatlosh, "Interview: Sound recording, oral positionality, and audio as ethnographic object," 2018](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/)  
 [Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/)  
+[April Joyner, "The hidden politics of digital catalogs," 2016](https://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/)  
 
 ## On accessibility and openness:
 
