@@ -39,14 +39,7 @@ Source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/bel
 	* Information, not deception
 	* Comprehension
 	* Voluntariness & right to withdraw  
-	* *In other words, according to Planned Parenthood's theorization:* 
-		* *"Understanding consent is as easy as FRIES. Consent is:*  
-			* ***F**reely given*  
-			* ***R**eversible*  
-			* ***I**nformed*  
-			* ***E**nthusiastic*  
-			* ***S**pecific"*  
-		* *Source: [Planned Parenthood Tumblr page](http://plannedparenthood.tumblr.com/post/148506806862/understanding-consent-is-as-easy-as-fries-consent)*  
+	* *See the [Planned Parenthood Tumblr page](http://plannedparenthood.tumblr.com/post/148506806862/understanding-consent-is-as-easy-as-fries-consent) for a great definition of consent*  
 
 2. **Assessment of risks and benefits**
 	* The nature and scope of risks and benefits-always minimize risk of harm!
@@ -56,7 +49,7 @@ Source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/bel
 3. **Selection of subjects**
 	* Fair recruitment and selection 
 
-Source (except the Planned Parenthood quotation): [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)  
+Source: [The Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)  
 
 ******
 
