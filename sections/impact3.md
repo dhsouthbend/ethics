@@ -46,13 +46,13 @@ Further readings:
 
 ## Activity   
 
-Think about the digital project or research you are or will be working on. 
+Think about the digital project or research you are or will be working on. Pair up with another person near you and discuss:  
 
 * Whose labor and what materials do you rely upon to do your work?  
 * Could your research or project be used to justify or facilitate potentially harmful control or surveillance-by e.g. the state, a vigilante group, an abusive partner?  
 * How could your work cause changes to or justify social, economic or political discourses?  
 * Will your work be used for profit, for who?  
 
-Pair up with another person near you and discuss. Share as a class.    
+Share as a class.    
 
 [<<< Previous](impact2.md) | [Next >>>](range.md)
