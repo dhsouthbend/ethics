@@ -87,6 +87,7 @@ Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Raci
 
 [Kelly Baker Josephs, "Teaching the Digital Caribbean: The Ethics of a Public Pedagogical Experiment," 2018](https://jitp.commons.gc.cuny.edu/teaching-the-digital-caribbean-the-ethics-of-a-public-pedagogical-experiment/)  
 [The Teaching and Learning Center at The Graduate Center, CUNY, "Educational Technology" teaching guides](https://tlc.commons.gc.cuny.edu/educational-technology/)  
+[The Journal of Interactive Technology and Pedagogy (various articles)](https://jitp.commons.gc.cuny.edu/about-the-journal/)  
 
 ## On data security and management, and surveillance:  
 
