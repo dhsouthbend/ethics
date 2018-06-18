@@ -30,6 +30,7 @@ Helen Simons and Robin Usher, editors, *Situated Ethics in Educational Research*
 ## General information on digital ethics beyond compliance:
 
 [Annette Markham, “OKCupid data release fiasco: It’s time to rethink ethics education,” 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)  
+[Helen Nissenbaum, "Privacy as Contextual Integrity," 2004](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)   
 [Casey Fiesler, table of "Tech Ethics Curricula" - including links to syllabi](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)  
 
 ## Critical technology, coding, and/or computation studies or practice groups:  
