@@ -3,7 +3,7 @@
 
 # Resources on ethics for digital projects and research
 
-*Note that these resources are just a sampling of readings and projects that may be useful for thinking about or demonstrative of critically ethical approaches to digital projects and research, but there are many more resources out there!*
+*Note that these resources are just a sampling of readings and projects that may be useful for thinking about or demonstrative of critically ethical approaches to digital projects and research, but there are many more resources out there! Also note that there is much overlap between the sub-topics below.*  
 
 ## US government regulations and general IRB information:
 
@@ -59,6 +59,7 @@ Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Raci
 [ProPublica's series of articles on "Machine Bias: Investigating Algorithmic Injustice"](https://www.propublica.org/series/machine-bias/)  
 [The Brian Lehrer Show, "Getting Algorithms Right" (podcast), 2018](https://www.wnyc.org/story/algorithms-better-or-worse/)  
 [The Policing in Chicago Research Group, "Tracked and Targeted: Early Findings on Chicago's Gang Database," 2018](http://erasethedatabase.com/wp-content/uploads/2018/02/Tracked-Targeted-0217.pdf)  
+[Robyn Caplan, Joan Donovan, Lauren Hanson, and Jeanna Matthews, "Algorithmic Accountability: A Primer," 2018](https://datasociety.net/output/algorithmic-accountability-a-primer/)  
 [Darren Abramson and Lee Pike, "When Formal Systems Kill: Computer Ethics and Formal Methods," 2011](https://www.cs.indiana.edu/~lepike/pubs/fm-ethics.pdf)  
 [Anna Lauren Hoffmann, "Data Violence and How Bad Engineering Choices Can Damage Society," 2018](https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4)  
 [Maurice Chammah, with additional reporting by Mark Hansen, "Policing the Future: In the aftermath of Ferguson, St. Louis cops embrace crime-predicting software," 2016](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project)  
@@ -67,16 +68,25 @@ Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Raci
 [Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/)  
 [April Joyner, "The hidden politics of digital catalogs," 2016](https://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/)  
 
-## On accessibility and openness:
+## On accessibility, openness, and digitization:
 
 [Patrick Smyth, "Materials for Open and Accessible: A Critical Distinction at Teach@CUNY Day"](https://github.com/pbsmyth/open_and_accessible)  
 [Samir Chopra and Scott Dexter, *Decoding Liberation: The Promise of Free and Open Source Software*, 2007](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)  
 [Creative Commons](https://creativecommons.org/)  
+[Audrey Watters, "Invisible Labor and Digital Utopias," 2018 * *also listed below under 'On divisions of labor..."*](http://hackeducation.com/2018/05/04/cuny-labor-open)  
+[Tara Robertson, "digitization: just because you can, doesn’t mean you should," 2016](http://tararobertson.ca/2016/oob/)  
+[Tara Robertson, "Not all information wants to be free: ethical considerations for digitization" (slides), 2016](http://tararobertson.ca/wp-content/uploads/2016/08/code4libNYS.pdf)  
+[Tara Robertson and Jenna Freedman, #critlib discussion on "ethics of digitization," 2016](http://critlib.org/ethics-of-digitization/)  
 [Shawn Lawton Henry, Shadi Abou-Zahra, and 	Judy Brewer, "The role of accessibility in a universal web," 2014](https://dl.acm.org/citation.cfm?doid=2596695.2596719)  
 [Dr. Joshua Miele’s](http://www.ski.org/users/joshua-miele) work on digital accessibility - see a review of his GC talk by Nanyamkah Mars [here](http://dh.prattsils.org/blog/resources/event-reviews/digital-accessibility-and-the-making-of-a-meta-maker-movement-a-talk-by-dr-joshua-miele-hosted-by-gc-digital-initiatives-at-the-graduate-center-cuny-on-thursday-october-20-2016/)  
 [George Williams, "Disability, Universal Design, and the Digital Humanities" in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/44)  
 [Tyler Zoanni, "Creating an Accessible Online Presentation," 2017](https://culanth.org/fieldsights/1335-creating-an-accessible-online-presentation)  
 [Humanidades Digitales Library Guide, prepared by The Graduate Center, CUNY, Library](https://libguides.gc.cuny.edu/c.php?g=405353&p=5674973)  
+
+## On digital pedagogy:  
+
+[Kelly Baker Josephs, "Teaching the Digital Caribbean: The Ethics of a Public Pedagogical Experiment," 2018](https://jitp.commons.gc.cuny.edu/teaching-the-digital-caribbean-the-ethics-of-a-public-pedagogical-experiment/)  
+[The Teaching and Learning Center at The Graduate Center, CUNY, "Educational Technology" teaching guides](https://tlc.commons.gc.cuny.edu/educational-technology/)  
 
 ## On data security and management, and surveillance:  
 
