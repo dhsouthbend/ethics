@@ -1,6 +1,6 @@
 [<<< Previous](impact2.md) | [Next >>>](range.md)
 
-# Level of impact III
+# Level of Impact III: Social, Political, and Economic Impacts of Projects or Research  
 
 ## Social, political, and economic impacts
 
