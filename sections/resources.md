@@ -8,7 +8,7 @@
 ## US government regulations and general IRB information:
 
 [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html#xbasic)  
-[Fiesler, Casey, Cliff Lampe, and Amy S. Bruckman, Reality and Perception of Copyright Terms of Service for Online Content Creation, 2016](https://dl.acm.org/ft_gateway.cfm?id=2819931&type=pdf)  
+[Fiesler, Casey, Cliff Lampe, and Amy S. Bruckman, "Reality and Perception of Copyright Terms of Service for Online Content Creation," 2016](https://dl.acm.org/ft_gateway.cfm?id=2819931&type=pdf)  
 [International Compilation of Human Research Standards (by country), compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/international/compilation-human-research-standards/index.html)  
 [Investigator Responsibilities FAQs, compiled by Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/investigator-responsibilities/index.html)  
 [Regulations and Policy in the US, compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/regulations-and-policy)  
@@ -17,24 +17,24 @@
 ## Key works (among many more!) on power, the politics of knowledge production, and forms of knowledge:
 
 Collins, Patricia Hill, *Black Feminist Thought*, 1999  
-[Conquergood, Dwight, Performance Studies: Interventions and Radical Research, 2002](http://www.csun.edu/~vcspc00g/301/psinterventions-tdr.pdf)  
+[Conquergood, Dwight, "Performance Studies: Interventions and Radical Research," 2002](http://www.csun.edu/~vcspc00g/301/psinterventions-tdr.pdf)  
 Foucault, Michel, *The Archaeology of Knowledge and the Discourse on Language*, 1969   
-Foucault, Michel, Panopticism, 1977  
+Foucault, Michel, "Panopticism," 1977  
 [Gramsci, Antonio, various writings](https://www.marxists.org/archive/gramsci/)  
 Hall, Stuart et al., *Policing the Crisis: Mugging, the State, and Law and Order*, 1978  
-Haraway, Donna, Situated Knowledges, 1988  
+Haraway, Donna, "Situated Knowledges," 1988  
 [Shay-Akil, Decolonize ALL The Things (website)](https://decolonizeallthethings.com/)  
 Simons, Helen, and Robin Usher, editors, *Situated Ethics in Educational Research*, 2000  
 Taylor, Diana, *The Archive and the Repertoire*, 2003  
-Wolfe, Patrick, Settler colonialism and the elimination of the native, 2006  
+Wolfe, Patrick, "Settler colonialism and the elimination of the native," 2006  
 
 ## General information on digital ethics beyond compliance:
 
-[Design Justice Network, Design Justice Network Principles](http://designjusticenetwork.org/network-principles/)  
+[Design Justice Network, "Design Justice Network Principles"](http://designjusticenetwork.org/network-principles/)  
 [Fiesler, Casey, table of Tech Ethics Curricula - including links to syllabi](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)  
 [Markham, Annette, “OKCupid data release fiasco: It’s time to rethink ethics education,” 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)  
-[Nissenbaum, Helen, Privacy as Contextual Integrity, 2004](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)   
-[Sayers, Jentery, Before You Make a Thing, a guide for Technology and Society 200 (Fall 2018) at the University of Victoria](https://jentery.github.io/ts200v2/notes.html)  
+[Nissenbaum, Helen, "Privacy as Contextual Integrity," 2004](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)   
+[Sayers, Jentery, "Before You Make a Thing," a guide for Technology and Society 200 (Fall 2018) at the University of Victoria](https://jentery.github.io/ts200v2/notes.html)  
 [Skirpan, Michael Warren, *Negotiating the Future: Leveraging Socio-technical Narratives to Engage Multiple Voices in the Ethics of Our Future*, 2017](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1156&context=csci_gradetds)  
 
 ## Critical technology, coding, and/or computation studies or practice groups:  
@@ -66,7 +66,7 @@ Broussard, Meredith, *Artificial Unintelligence: How Computers Misunderstand the
 [Caplan, Robyn, Joan Donovan, Lauren Hanson, and Jeanna Matthews, "Algorithmic Accountability: A Primer," 2018](https://datasociety.net/output/algorithmic-accountability-a-primer/)  
 [Chammah, Maurice, with additional reporting by Mark Hansen, "Policing the Future: In the aftermath of Ferguson, St. Louis cops embrace crime-predicting software," 2016](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project)  
 [Eubanks, Virginia, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*, 2018](https://virginia-eubanks.com/books/)  
-[Gillespie, Tarleton, and Nick Seaver, Critical Algorithm Studies: a Reading List, 2016](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)  
+[Gillespie, Tarleton, and Nick Seaver, "Critical Algorithm Studies: a Reading List," 2016](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)  
 [Halsey, Eric David, "With AI and Data, it’s 'Junk in, Junk Out,'" 2017](https://medium.com/source-institute/with-ai-and-data-its-junk-in-junk-out-18b33e8f391e)  
 [Hoffmann, Anna Lauren, "Data Violence and How Bad Engineering Choices Can Damage Society," 2018](https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4)  
 [Joyner, April, "The hidden politics of digital catalogs," 2016](https://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/)  
@@ -117,18 +117,18 @@ Winichakul, Thongchai, "Maps and the Formation of the Geo-Body of Siam," in *Asi
 [Barnes, Susan, “A Privacy Paradox,” 2006](http://firstmonday.org/article/view/1394/1312)  
 [Factor, interview with Richard Stallman, "The Vanishing State of Privacy," 2017](http://magazine.factor-tech.com/factor_winter_2017/richard_stallman_and_the_vanishing_state_of_privacy)  
 [Lloyd-Smith, Lindsay, “Archaeology: Principles and Practices of Digital Data Management," 2016](http://www.americananthro.org/LearnAndTeach/Content.aspx?ItemNumber=20668)   
-[Smyth, Patrick, GCDI Information Security Workshop](https://github.com/smythp/security-workshop)  
+[Smyth, Patrick, GC Digital Initiatives (GCDI) Information Security Workshop](https://github.com/smythp/security-workshop)  
 [Tufekci, Zeynep, "Facebook’s Surveillance Machine," 2018](https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html?smid=pl-share)  
 [Zweibel, Stephen, Data Management (presentation), 2017](http://zweibel.net/presentations/data.html#/)  
 
 ## On ethical and political debates within the field of digital humanities (DH):
 
-[Chun, Wendy Hui Kyong, Richard Grusin, Patrick Jagoda, and Rita Raley, The Dark Side of the Digital Humanities in *Debates in the Digital Humanities*, ed. Matt Gold, 2016](http://dhdebates.gc.cuny.edu/debates/text/89)  
-[Fiormonte, Domenico, Digital Humanities and the Geopolitics of Knowledge, 2017](https://www.digitalstudies.org/article/10.16995/dscn.274/)  
-[Humanidades Digitales Library Guide, prepared by The Graduate Center, CUNY, Library](https://libguides.gc.cuny.edu/c.php?g=405353&p=5674973)  
+[Chun, Wendy Hui Kyong, Richard Grusin, Patrick Jagoda, and Rita Raley, "The Dark Side of the Digital Humanities," in *Debates in the Digital Humanities*, ed. Matt Gold, 2016](http://dhdebates.gc.cuny.edu/debates/text/89)  
+[Fiormonte, Domenico, "Digital Humanities and the Geopolitics of Knowledge," 2017](https://www.digitalstudies.org/article/10.16995/dscn.274/)  
+[Humanidades Digitales Library Guide, prepared by The Graduate Center, CUNY, Library with the GC Digital Fellows](https://libguides.gc.cuny.edu/c.php?g=405353&p=5674973)  
 Losh, Elizabeth, and Jacqueline Wernimont, Editors, *Bodies of Information: Intersectional Feminism and Digital Humanities*, 2018  
-[Losh, Elizabeth, Hacktivism and the Humanities: Programming Protest in the Era of the Digital University in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/32)  
-[McPherson, Tara, Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/29)  
+[Losh, Elizabeth, "Hacktivism and the Humanities: Programming Protest in the Era of the Digital University," in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/32)  
+[McPherson, Tara, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation," in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/29)  
 
 ## On divisions of labor on digital projects and "digital carework" (Risam 2018):  
 
