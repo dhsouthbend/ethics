@@ -12,6 +12,7 @@
 ["Investigator Responsibilities FAQs," compiled by Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/regulations-and-policy/guidance/faq/investigator-responsibilities/index.html)  
 [Regulations and Policy in the US, compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/regulations-and-policy)  
 [International Compilation of Human Research Standards (by country), compiled by the Office for Human Research Protections, U.S. Department of Health and Human Services](https://www.hhs.gov/ohrp/international/compilation-human-research-standards/index.html)  
+[Casey Fiesler, Cliff Lampe, and Amy S. Bruckman, "Reality and Perception of Copyright Terms of Service for Online Content Creation," 2016](https://dl.acm.org/ft_gateway.cfm?id=2819931&type=pdf)  
 
 ## Key works (among many more!) on power, the politics of knowledge production, and forms of knowledge:
 
@@ -34,6 +35,7 @@ Helen Simons and Robin Usher, editors, *Situated Ethics in Educational Research*
 [Casey Fiesler, table of "Tech Ethics Curricula" - including links to syllabi](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)  
 [Jentery Sayers, "Before You Make a Thing," a guide for Technology and Society 200 (Fall 2018) at the University of Victoria](https://jentery.github.io/ts200v2/notes.html)  	
 [Design Justice Network, "Design Justice Network Principles"](http://designjusticenetwork.org/network-principles/)  
+[Skirpan, Michael Warren, *Negotiating the Future: Leveraging Socio-technical Narratives to Engage Multiple Voices in the Ethics of Our Future*, 2017](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1156&context=csci_gradetds)  
 
 ## Critical technology, coding, and/or computation studies or practice groups:  
 
@@ -52,10 +54,14 @@ Helen Simons and Robin Usher, editors, *Situated Ethics in Educational Research*
 Safiya Umoja Noble, *The Intersectional Internet: Race, Sex, Class, and Culture Online*, 2016  
 [Matthew Zook, Solon Barocas, danah boyd, Kate Crawford, Emily Keller, Seeta Peña Gangadharan, Alyssa Goodman, Rachelle Hollander, Barbara A. Koenig, Jacob Metcalf, Arvind Narayanan, Alondra Nelson, Frank Pasquale, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
 [Jason Young and Michael Gilmore, "Subaltern Empowerment in the Geoweb: Tensions between Publicity and Privacy," 2014](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.12056)  
+[Jacob Metcalf and Kate Crawford, "Where are human subjects in Big Data research? The emerging ethics divide," 2016](https://journals.sagepub.com/doi/pdf/10.1177/2053951716650211)  
+[Jacob Metcalf, "Computing Ethics, Big Data Analytics, and Revision of the Common Rule: Reconsidering traditional research ethics
+given the emergence of big data analytics," 2016](https://dl.acm.org/ft_gateway.cfm?id=2935882&type=pdf)  
 
 ## On ethics, algorithms and databases:
 
 [Tarleton Gillespie and Nick Seaver, Critical Algorithm Studies: a Reading List, 2016](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)  
+[Andrew D. Selbst, Danah Boyd, Sorelle Friedler, Suresh Venkatasubramanian, and Janet Vertesi, "Fairness and Abstraction in Sociotechnical Systems," 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265913)    
 [Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*, 2018](https://virginia-eubanks.com/books/)  
 Meredith Broussard, *Artificial Unintelligence: How Computers Misunderstand the World*, 2018  
 Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018  
@@ -69,9 +75,9 @@ Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Raci
 [Anna Lauren Hoffmann, "Data Violence and How Bad Engineering Choices Can Damage Society," 2018](https://medium.com/s/story/data-violence-and-how-bad-engineering-choices-can-damage-society-39e44150e1d4)  
 [Maurice Chammah, with additional reporting by Mark Hansen, "Policing the Future: In the aftermath of Ferguson, St. Louis cops embrace crime-predicting software," 2016](https://www.theverge.com/2016/2/3/10895804/st-louis-police-hunchlab-predictive-policing-marshall-project)  
 [Eric David Halsey, "With AI and Data, it’s 'Junk in, Junk Out,'" 2017](https://medium.com/source-institute/with-ai-and-data-its-junk-in-junk-out-18b33e8f391e)  
-[Roshanak Kheshti, interviewed by Kelsey Chatlosh, "Interview: Sound recording, oral positionality, and audio as ethnographic object," 2018](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/)  
-[Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/)  
 [April Joyner, "The hidden politics of digital catalogs," 2016](https://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/)  
+[Andrew D. Selbst and Julia Powles, "Meaningful information and the right to explanation," 2017](https://academic.oup.com/idpl/article-pdf/7/4/233/22923065/ipx022.pdf)  
+[Andrew D. Selbst and Solon Barocas, "Regulating Inscrutable Systems," 2017](http://www.werobot2017.com/wp-content/uploads/2017/03/Selbst-and-Barocas-Regulating-Inscrutable-Systems-1.pdf)  
 
 ## On ethics and the command line:
 
@@ -87,6 +93,8 @@ Thongchai Winichakul, "Maps and the Formation of the Geo-Body of Siam," in *Asia
 ## On accessibility, openness, and digitization:
 
 [Patrick Smyth, "Materials for Open and Accessible: A Critical Distinction at Teach@CUNY Day"](https://github.com/pbsmyth/open_and_accessible)  
+[Roshanak Kheshti, interviewed by Kelsey Chatlosh, "Interview: Sound recording, oral positionality, and audio as ethnographic object," 2018](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/)  
+[Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/)  
 [Samir Chopra and Scott Dexter, *Decoding Liberation: The Promise of Free and Open Source Software*, 2007](http://www.sci.brooklyn.cuny.edu/~bcfoss/DL/)  
 [Creative Commons](https://creativecommons.org/)  
 [Audrey Watters, "Invisible Labor and Digital Utopias," 2018 * *also listed below under 'On divisions of labor..."*](http://hackeducation.com/2018/05/04/cuny-labor-open)  
