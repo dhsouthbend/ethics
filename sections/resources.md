@@ -32,12 +32,15 @@ Helen Simons and Robin Usher, editors, *Situated Ethics in Educational Research*
 [Annette Markham, “OKCupid data release fiasco: It’s time to rethink ethics education,” 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)  
 [Helen Nissenbaum, "Privacy as Contextual Integrity," 2004](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)   
 [Casey Fiesler, table of "Tech Ethics Curricula" - including links to syllabi](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)  
+[Jentery Sayers, "Before You Make a Thing," a guide for Technology and Society 200 (Fall 2018) at the University of Victoria](https://jentery.github.io/ts200v2/notes.html)  	
+[Design Justice Network, "Design Justice Network Principles"](http://designjusticenetwork.org/network-principles/)  
 
 ## Critical technology, coding, and/or computation studies or practice groups:  
 
 [FemTechNet](https://femtechnet.org/)  
 [Critical Code Studies Working Group](http://wg18.criticalcodestudies.com/)  
 [School for Poetic Computation](http://sfpc.io/)  
+[Design Justice Network](http://designjusticenetwork.org/)  
 
 ## On internet, social media and "big data" research ethics:
 
@@ -53,6 +56,7 @@ Safiya Umoja Noble, *The Intersectional Internet: Race, Sex, Class, and Culture 
 ## On ethics, algorithms and databases:
 
 [Tarleton Gillespie and Nick Seaver, Critical Algorithm Studies: a Reading List, 2016](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)  
+[Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*, 2018](https://virginia-eubanks.com/books/)  
 Meredith Broussard, *Artificial Unintelligence: How Computers Misunderstand the World*, 2018  
 Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018  
 [Cathy O'Neil, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016](https://weaponsofmathdestructionbook.com/)  
@@ -68,6 +72,17 @@ Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Raci
 [Roshanak Kheshti, interviewed by Kelsey Chatlosh, "Interview: Sound recording, oral positionality, and audio as ethnographic object," 2018](http://parameters.ssrc.org/2018/04/interview-sound-recording-oral-positionality-and-audio-as-ethnographic-object/)  
 [Doug Boyd, "Informed Accessioning: Questions to Ask After the Interview," 2015](http://ohda.matrix.msu.edu/2015/03/informed-accessioning-questions-to-ask-after-the-interview/)  
 [April Joyner, "The hidden politics of digital catalogs," 2016](https://technical.ly/brooklyn/2016/11/28/interference-archive-activism-jen-hoyer/)  
+
+## On ethics and the command line:
+
+[Wendy Hui Kyong Chun, "On Software, or the Persistence of Visual Knowledge," 2004](https://www.brown.edu/Departments/MCM/people/chun/papers/software.pdf)  
+[Neal Stephenson, "In the Beginning was the Command Line," 1999](http://faculty.georgetown.edu/irvinem/theory/Stephenson-CommandLine-1999.pdf)  
+
+## On ethics and mapping:  
+
+Pol Bargués-Pedreny, David Chandler, and Elena Simon, Editors, *Mapping and Politics in the Digital Age*, 1st Edition, 2018  
+[Technology Salon NYC, "Ethics and Responsibilities of Participatory Digital Mapping: Links and Resources" Google Doc](https://docs.google.com/document/d/1TqdmBuJLxlwxhjwVMWSJkdCBya1GKdnEDOdQ9c1XYgg/edit?usp=sharing)    
+Thongchai Winichakul, "Maps and the Formation of the Geo-Body of Siam," in *Asian Forms of Nations*, 1996   
 
 ## On accessibility, openness, and digitization:
 
@@ -101,6 +116,7 @@ Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Raci
 
 ## On ethical and political debates within the field of digital humanities (DH):
 
+Elizabeth Losh and Jacqueline Wernimont, Editors, *Bodies of Information: Intersectional Feminism and Digital Humanities*, 2018  
 [Domenico Fiormonte, "Digital Humanities and the Geopolitics of Knowledge," 2017](https://www.digitalstudies.org/article/10.16995/dscn.274/)  
 [Wendy Hui Kyong Chun, Richard Grusin, Patrick Jagoda, and Rita Raley, "The Dark Side of the Digital Humanities" in *Debates in the Digital Humanities*, ed. Matt Gold, 2016](http://dhdebates.gc.cuny.edu/debates/text/89)  
 [Tara McPherson, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation" in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/29)  
@@ -119,6 +135,7 @@ Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Raci
 
 ## On post- / de- / anti- colonial digital humanities (DH):
 
+[Roopika Risam, *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*, 2018](http://roopikarisam.com/new-digital-worlds.html)  
 [Adeline Koh and Roopika Risam, Postcolonial Digital Humanities (website)](http://dhpoco.org/)  
 [Ashley Morford and Arun Jacob, session leaders, "Let's Plan a Course: Bringing the Anti-, De-, & Post-Colonial into Digital Space, Time, & Pedagogy" at DHSI 2017 (unconference session notes)](https://docs.google.com/document/d/15XLNrzZLaC3ZfNh1Z4ssppEmB49mlhmlCMvVR8Ofw5w/edit?usp=sharing)  
 
