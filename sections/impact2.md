@@ -1,6 +1,6 @@
 [<<< Previous](impact1cont.md) | [Next >>>](impact2cont.md)
 
-# Level of impact II
+# Level of Impact II: Politics of Knowledge Production and Categorization  
 
 ## Politics of knowledge production
 
