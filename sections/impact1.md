@@ -1,6 +1,6 @@
 [<<< Previous](levelsimpact.md) | [Next >>>](impact1cont.md)
 
-# Level of impact I
+# Level of Impact I: Direct Impacts on People through Data Collection
 
 ## Direct effects on people
 
