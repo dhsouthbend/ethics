@@ -7,8 +7,8 @@
 By the end of this workshop, participants have:
 
 * Reviewed ethical practices to satisfy institutional needs (IRB) when working with "human subjects."
-* Learned specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools, including: (1) direct impacts on people through data collection; (2) the politics of knowledge production and categorization; and (3) social, political, and economic impacts of projects or research (drawing from Markham 2016 in Resources);
-* Reviewed critical questions of accessibility and openness, for people of varying (dis)abilities, and depending on people's language abilities, access to technology and speedy internet, and geographic location in the world;  
+* Learned specific ethical questions and levels of impact to consider when doing various forms of digital research and using digital tools, including: (1) direct impacts on people through data collection; (2) the politics of knowledge production and categorization; and (3) social, political, and economic impacts of projects or research (drawing from Markham 2016 in [Resources](resources.md);
+* Reviewed critical questions of accessibility and openness, for people of varying (dis)abilities, and depending on people's language abilities, access to technology and speedy internet, and geo-political location in the world;  
 * Engaged with alternative approaches and case examples.
 * Envisioned the ethics of their own projects and methodologies.
 
