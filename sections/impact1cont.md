@@ -1,8 +1,8 @@
 [<<< Previous](impact1.md) | [Next >>>](impact2.md)
 
-# Level of impact I, continued
+# Level ofIimpact I, continued
 
-## “Public” data
+## “Public” Data
 
 Some questions to consider:  
 
@@ -14,7 +14,7 @@ Some questions to consider:
 
 For those doing work with big data, recommended reading: [Matthew Zook et al., "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
 
-## The question of personhood
+## The Question of Personhood
 
 Some questions to consider:  
 
