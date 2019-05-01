@@ -13,7 +13,7 @@ Image source: Created by author in MS Word.
 ## Considerations
 * What are assumptions that were already made before I got the data? 
 * What assumptions am I making? 
-* How does my own perspective and identity influence my approach? ([See "The Dance of Race and Privilege in Community Based Participatory Research" by Chavez and colleages] (https://www.researchgate.net/profile/Bonnie_Duran2/publication/306452465_The_Dance_of_Race_and_Privilege_in_CBPR/links/57be08d408aeda1ec3861020.pdf))
+* How does my own perspective and identity influence my approach? (["The Dance of Race and Privilege in Community Based Participatory Research" by Chavez and colleagues](https://www.researchgate.net/profile/Bonnie_Duran2/publication/306452465_The_Dance_of_Race_and_Privilege_in_CBPR/links/57be08d408aeda1ec3861020.pdf))
 * If individual people who contributed to a large portion of your work, consider making them an author or acknowledging them
 
 ## Discuss  
