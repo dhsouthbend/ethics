@@ -54,5 +54,13 @@ Think about the digital project or research you are or will be working on. Pair 
 * Will your work be used for profit, for who?  
 
 Share as a class.    
+## Some Considerations
+We cannot control how others will use our work, but we can do our best to present results in a way that cannot be misinterpreted, and make sure that our work is accessible to groups that are historically disadvantaged, subjected to biased categorization, and excluded from knowledge production. 
+There are a many ways to put this into practice:
+* In your results/presentation, explicitly say the implications of your work and how your results should be used
+* If you have the ability to do so, consider disseminating your project not just in academic settings, making your work known to broader audiences and stakeholders you want to use your findings
+* If appropriate, make your data publicly available for others to use
+* If you use labor of individuals outside of your department or university, do your best to compensate them financially and formally acknowledge them
+
 
 [<<< Previous](impact2.md) | [Next >>>](range.md)
