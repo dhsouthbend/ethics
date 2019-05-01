@@ -26,7 +26,7 @@ Sources to check out:
 [Dr. Joshua Miele’s](http://www.ski.org/users/joshua-miele) work on digital accessibility - see a review of his GC talk by Nanyamkah Mars [here](http://dh.prattsils.org/blog/resources/event-reviews/digital-accessibility-and-the-making-of-a-meta-maker-movement-a-talk-by-dr-joshua-miele-hosted-by-gc-digital-initiatives-at-the-graduate-center-cuny-on-thursday-october-20-2016/)  
 [Tyler Zoanni, "Creating an Accessible Online Presentation," 2017](https://culanth.org/fieldsights/1335-creating-an-accessible-online-presentation)  
 [Julia Miele Rodas, "YouDescribe: Testing Crowd-sourced Video Description for Service Learning at the City University of New York," 2015](https://jitp.commons.gc.cuny.edu/youdescribe-testing-crowd-sourced-video-description-for-service-learning-at-the-city-university-of-new-york/)  
-[Jennifer Sutton, "A Guide to Making Documents Accessible to People Who Are Blind or Visually Impaired"]/(https://www.sabeusa.org/wp-content/uploads/2014/02/A-Guide-to-Making-Documents-Accessible-to-People-Who-are-Blind-or-Visually-Impaired.pdf)
+[Jennifer Sutton, "A Guide to Making Documents Accessible to People Who Are Blind or Visually Impaired"](https://www.sabeusa.org/wp-content/uploads/2014/02/A-Guide-to-Making-Documents-Accessible-to-People-Who-are-Blind-or-Visually-Impaired.pdf)
 
 ### International accessibility and language access
 
