@@ -1,6 +1,6 @@
 [<<< Previous](impact1.md) | [Next >>>](impact2.md)
 
-# Level ofIimpact I, continued
+# Level of Impact I, continued
 
 ## “Public” Data
 
