@@ -34,4 +34,14 @@ A working definition of the “distance principle”:
 
 Image source: A still image from ["A real person, a lot like you"](https://www.youtube.com/watch?v=cfwwHa-7Ux8) by [Derek Sivers](https://sivers.org/), shared here with his permission.  
 
+## Considerations
+* Your research question
+   * How we talk about “fixing problems” in communities, cultures and people groups
+   * Traditionally researchers use a deficit-focus rather than an asset-focus
+* the sensitivity of certain topics (for example, illegal activities, immigration status, or abuse)
+   * Ask: even though this data is available to me, would the people this data comes from want it used this way?
+* Is this data representative?
+   * Algorithms make their own assumptions and may classify people incorrectly (see [Facebook Algorithms and Personal Data](https://www.pewinternet.org/2019/01/16/facebook-algorithms-and-personal-data/))
+
+
 [<<< Previous](levelsimpact.md) | [Next >>>](impact1cont.md)
