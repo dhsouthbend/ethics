@@ -4,7 +4,7 @@
 
 ## What are ethics?
 
-For the purposes of this session, I define ethics as the moral principles that an individual aims to follow in practice to the best of their ability, research, and foresight.
+For the purposes of this session, I define ethics as norms for conduct that an individual aims to follow based on underpinning moral principles.
 
 Ethics are not just a list of universal standards that can be found in a research methods textbook, or the entirety of the Institutional Review Board's protocols, or that which is legal under the current political regime where one is located. Ethics are about being caring and sensitive towards the ways in which what an individual does and does not do affects other people, foremost, and perhaps also ecosystems, and trying one's best to not only not cause harm to them but ideally also actively do good (or even take an activist approach!).
 
@@ -24,6 +24,6 @@ As Haraway eloquently argues:
 
 Situated ethics thus argues that ethical concerns will vary amongst people, disciplines, projects, tools, and contexts depending on the particular situated perspective of that person, group, or project.  
 
-Thinking through how ethical ideas and practices, or lack thereof, are situated may prompt questions such as: How were computers developed? By whom? Where? Why? As Meredith Broussard argues in *Artificial Unintelligence* (2018), a "particular strain of white, male bias," to which I'd add United States and Euro-centric, runs deep in tech (page 79).  
+Thinking through how ethical ideas and practices, or lack thereof, are situated may prompt questions such as: How were computers developed? By whom? Where? Why? As Meredith Broussard argues in *Artificial Unintelligence* (2018), a "particular strain of white, male bias," to which I'd add United States and Euro-centric, runs deep in technology, from the research questions we ask, what data we collect, the methods we use, and how we analyze, display, and share our findings (page 79).  
 
 [<<< Previous](https://github.com/DHRI-Curriculum/ethics) | [Next >>>](institutional.md)
