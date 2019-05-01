@@ -53,14 +53,18 @@ Think about the digital project or research you are or will be working on. Pair 
 * How could your work cause changes to or justify social, economic or political discourses?  
 * Will your work be used for profit, for who?  
 
-Share as a class.    
+Share as a class. 
+
 ## Some Considerations
 We cannot control how others will use our work, but we can do our best to present results in a way that cannot be misinterpreted, and make sure that our work is accessible to groups that are historically disadvantaged, subjected to biased categorization, and excluded from knowledge production. 
 There are a many ways to put this into practice:
+* Before you start your research, state your goals and the way you hope your work will have an impact and consider the ways your findings could be used to perpetuate stereotypes and injustice
 * In your results/presentation, explicitly say the implications of your work and how your results should be used
 * If you have the ability to do so, consider disseminating your project not just in academic settings, making your work known to broader audiences and stakeholders you want to use your findings
 * If appropriate, make your data publicly available for others to use
+* Incorporate members of these groups into your research process/team if possible
 * If you use labor of individuals outside of your department or university, do your best to compensate them financially and formally acknowledge them
+
 
 
 [<<< Previous](impact2.md) | [Next >>>](range.md)
