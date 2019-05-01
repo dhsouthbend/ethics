@@ -1,8 +1,8 @@
 [<<< Previous](impact1.md) | [Next >>>](impact2.md)
 
-# Level of impact I, continued
+# Level of Impact I, continued
 
-## “Public” data
+## “Public” Data
 
 Some questions to consider:  
 
@@ -14,7 +14,7 @@ Some questions to consider:
 
 For those doing work with big data, recommended reading: [Matthew Zook et al., "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
 
-## The question of personhood
+## The Question of Personhood
 
 Some questions to consider:  
 
@@ -24,6 +24,15 @@ Some questions to consider:
 > "Does the connection between one’s online data and [their] physical person enable psychological, economic, or physical, harm?"     
 
 Source: [the 2012 Ethical Decision-Making and Internet Research report by the the AoIR Ethics Working Committee](http://aoir.org/reports/ethics2.pdf)  
+
+## Considerations of Representation
+* Your research question
+   * How we talk about “fixing problems” in communities, cultures and people groups
+   * Traditionally researchers use a deficit-focus rather than an asset-focus
+* the sensitivity of certain topics (for example, illegal activities, immigration status, or abuse)
+   * Ask: even though this data is available to me, would the people this data comes from want it used this way?
+* Is this data representative?
+   * Algorithms make their own assumptions and may classify people incorrectly (see ["Facebook Algorithms and Personal Data"](https://www.pewinternet.org/2019/01/16/facebook-algorithms-and-personal-data/))
 
 ## Activity  
 

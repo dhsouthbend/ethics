@@ -17,6 +17,8 @@ Categories are key to digital tools in many ways: the classification systems use
 
 Image source: A comic by Adeline Koh from [#DHPoco: Postcolonial Digital Humanities](http://dhpoco.tumblr.com/), shared here with her permission.  
 
+The way we create and reinforce categorizations of people- from race, gender, ability, and other social categories - can have big implications. Our categorizations may not even be accurate- [almost 30% of people said that their assigned ad preferences on facebook did not reflect their real-life interests](https://www.pewinternet.org/2019/01/16/facebook-algorithms-and-personal-data/). 
+
 ## Bias in, bias out: systems of oppression and inputting human bias
 
 **Human beings** are making decisions that inform how these groupings are being made, and human "beliefs are embedded in the design and concept of technological systems" (Broussard 2018, page 67). Technology is not unbiased, but rather will inevitably represent the decisions of its human creators who each create from their own situated standpoints—personally, socially, and historically.  

@@ -36,7 +36,7 @@ By the end of this workshop, participants will:
 
 -----
 
-Session Leader: [Kelsey Chatlosh](https://commons.gc.cuny.edu/members/kelseychatlosh/)  
+Session Leader: [Alexis Grant](https://www.linkedin.com/in/alexiskrg/)  
 Based on previous work by Kelsey Chatlosh  
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)

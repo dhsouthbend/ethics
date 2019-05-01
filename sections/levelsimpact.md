@@ -20,6 +20,7 @@ This session, drawing from Markham (2016), will focus on three levels of impact:
 
 Additionally, this workshop will address the range of impact, or the range of accessibility to your work:  
 
+- to marginalized populations and communities,
 - to people with disabilities,
 - to people in different countries or who speak different languages, and
 - in terms of cost and proprietary accessibility.

@@ -18,15 +18,16 @@
 
 Collins, Patricia Hill, *Black Feminist Thought*, 1999  
 [Conquergood, Dwight, "Performance Studies: Interventions and Radical Research," 2002](http://www.csun.edu/~vcspc00g/301/psinterventions-tdr.pdf)  
-Foucault, Michel, *The Archaeology of Knowledge and the Discourse on Language*, 1969   
-Foucault, Michel, "Panopticism," 1977  
+Foucault, Michel, *The Archaeology of Knowledge and the Discourse on Language*, 1969
+Foucault, Michel, "Panopticism," 1977     
+Freire, Paulo, *Pedagogy of the Oppressed*, 1968                
 [Gramsci, Antonio, various writings](https://www.marxists.org/archive/gramsci/)  
 Hall, Stuart et al., *Policing the Crisis: Mugging, the State, and Law and Order*, 1978  
 Haraway, Donna, "Situated Knowledges," 1988  
 [Shay-Akil, Decolonize ALL The Things (website)](https://decolonizeallthethings.com/)  
 Simons, Helen, and Robin Usher, editors, *Situated Ethics in Educational Research*, 2000  
 Taylor, Diana, *The Archive and the Repertoire*, 2003  
-Wolfe, Patrick, "Settler colonialism and the elimination of the native," 2006  
+Wolfe, Patrick, "Settler colonialism and the elimination of the native," 2006 
 
 ## General information on digital ethics beyond compliance:
 
@@ -51,7 +52,8 @@ Wolfe, Patrick, "Settler colonialism and the elimination of the native," 2006
 [Markam, Annette, Elizabeth Buchanon, the AoIR  Ethics Committee, and AoIR general membership, "Ethical Decision-Making and Internet Research: Recommendations from the AoIR Ethics Working Committee (Version 2.0)," 2012](http://aoir.org/reports/ethics2.pdf)  
 [Metcalf, Jacob, "Computing Ethics, Big Data Analytics, and Revision of the Common Rule: Reconsidering traditional research ethics
 given the emergence of big data analytics," 2016](https://dl.acm.org/ft_gateway.cfm?id=2935882&type=pdf)  
-[Metcalf, Jacob and Kate Crawford, "Where are human subjects in Big Data research? The emerging ethics divide," 2016](https://journals.sagepub.com/doi/pdf/10.1177/2053951716650211)  
+[Metcalf, Jacob and Kate Crawford, "Where are human subjects in Big Data research? The emerging ethics divide," 2016](https://journals.sagepub.com/doi/pdf/10.1177/2053951716650211)      
+[Moreno, Megan A., et al. "Ethics of social media research: common concerns and practical considerations." *Cyberpsychology, behavior, and social networking* 16.9 (2013): 708-713.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3942703/)               
 Noble, Safiya Umoja, *The Intersectional Internet: Race, Sex, Class, and Culture Online*, 2016  
 [Sweeney, Patrick, "Images of Faces Gleaned from Social Media in Social Psychological Research on Sexual Orientation," 2017](https://www.academia.edu/34001772/Images_of_Faces_Gleaned_from_Social_Media_in_Social_Psychological_Research_on_Sexual_Orientation)  
 [Young, Jason, and Michael Gilmore, "Subaltern Empowerment in the Geoweb: Tensions between Publicity and Privacy," 2014](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.12056)  
@@ -130,6 +132,7 @@ Losh, Elizabeth, and Jacqueline Wernimont, Editors, *Bodies of Information: Inte
 [Losh, Elizabeth, "Hacktivism and the Humanities: Programming Protest in the Era of the Digital University," in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/32)  
 [McPherson, Tara, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation," in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/29)  
 
+
 ## On divisions of labor on digital projects and "digital carework" (Risam 2018):  
 
 [Mirza, Rafia, Brett Currier and Peace Ossom Williamson, "Memorandum of Understanding Collection" - MOUs to apply for large scale collaborative projects](https://uta-ir.tdl.org/uta-ir/handle/10106/25646)  
@@ -172,10 +175,10 @@ Martineau, Jarret, "Rhythms of Change: Mobilizing Decolonial Consciousness, Indi
 
 Email me to request to add something to this resource list:
 
-Kelsey Chatlosh  
-GC, CUNY, Digital Fellow  
-Cultural Anthropology Student  
-Kchatlosh@gradcenter.cuny.edu  
+Alexis Grant  
+University of Illinois at Chicago
+Community Health Sciences Student  
+agrant23@uic.edu  
 She / her  
 
 [<<< Previous](glossary.md)  
