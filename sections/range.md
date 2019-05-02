@@ -12,6 +12,17 @@ In this workshop, while I appreciate the aims of a universal design approach and
 
 What forms of accessibility are particularly relevant to consider when designing, doing, and sharing digital research and projects?
 
+### Accesibility to marginalized populations and communities
+
+Questions to consider: 
+
+- is your project accesible to communities without internet access? 
+- what is the reading level required to understand the text? 
+- could the project be displayed visually?
+- do you define terms and avoid jargon? 
+- is your project accessible to the public and people outside the academic community?
+- do people outside of your circle have a way to know about your project?
+
 ### Accessibility to people with disabilities
 
 Questions to consider:
