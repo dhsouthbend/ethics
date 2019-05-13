@@ -1,5 +1,5 @@
 [<<< Previous](glossary.md)  
-[<<< Return to beginning](https://github.com/DHRI-Curriculum/ethics)  
+[<<< Return to beginning](https://github.com/dhsouthbend/ethics)  
 
 # Resources on ethics for digital projects and research
 
@@ -182,4 +182,4 @@ agrant23@uic.edu
 She / her  
 
 [<<< Previous](glossary.md)  
-[<<< Return to beginning](https://github.com/DHRI-Curriculum/ethics)  
+[<<< Return to beginning](https://github.com/dhsouthbend/ethics)  
