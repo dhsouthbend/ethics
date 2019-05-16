@@ -28,7 +28,7 @@ Source: [the 2012 Ethical Decision-Making and Internet Research report by the th
 ## Considerations of Representation
 * Your research question
    * How we talk about “fixing problems” in communities, cultures and people groups
-   * Traditionally researchers use a deficit-focus rather than an asset-focus
+   * Using a deficit-focus vs.an asset-focus for different communities
 * the sensitivity of certain topics (for example, illegal activities, immigration status, or abuse)
    * Ask: even though this data is available to me, would the people this data comes from want it used this way?
 * Is this data representative?
