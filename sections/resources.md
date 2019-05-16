@@ -37,7 +37,7 @@ Wolfe, Patrick, "Settler colonialism and the elimination of the native," 2006
 [Nissenbaum, Helen, "Privacy as Contextual Integrity," 2004](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)   
 [Sayers, Jentery, "Before You Make a Thing," a guide for Technology and Society 200 (Fall 2018) at the University of Victoria](https://jentery.github.io/ts200v2/notes.html)  
 [Skirpan, Michael Warren, *Negotiating the Future: Leveraging Socio-technical Narratives to Engage Multiple Voices in the Ethics of Our Future*, 2017](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1156&context=csci_gradetds) 
-[Wilkinson, T.M., "Last Rights: Ethics of Research of the Dead"](http://anesthesiologyethics.homestead.com/files/the_ethics_of_research_on_the_dead.pdf)
+[Wilkinson, T.M., "Last Rights: Ethics of Research on the Dead", 2002](http://anesthesiologyethics.homestead.com/files/the_ethics_of_research_on_the_dead.pdf)
 
 ## Critical technology, coding, and/or computation studies or practice groups:  
 
