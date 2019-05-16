@@ -36,7 +36,8 @@ Wolfe, Patrick, "Settler colonialism and the elimination of the native," 2006
 [Markham, Annette, “OKCupid data release fiasco: It’s time to rethink ethics education,” 2016](http://annettemarkham.com/2016/05/okcupid-data-release-fiasco-its-time-to-rethink-ethics-education/)  
 [Nissenbaum, Helen, "Privacy as Contextual Integrity," 2004](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf)   
 [Sayers, Jentery, "Before You Make a Thing," a guide for Technology and Society 200 (Fall 2018) at the University of Victoria](https://jentery.github.io/ts200v2/notes.html)  
-[Skirpan, Michael Warren, *Negotiating the Future: Leveraging Socio-technical Narratives to Engage Multiple Voices in the Ethics of Our Future*, 2017](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1156&context=csci_gradetds)  
+[Skirpan, Michael Warren, *Negotiating the Future: Leveraging Socio-technical Narratives to Engage Multiple Voices in the Ethics of Our Future*, 2017](https://scholar.colorado.edu/cgi/viewcontent.cgi?article=1156&context=csci_gradetds) 
+[Wilkinson, T.M., "Last Rights: Ethics of Research of the Dead"](http://anesthesiologyethics.homestead.com/files/the_ethics_of_research_on_the_dead.pdf)
 
 ## Critical technology, coding, and/or computation studies or practice groups:  
 
@@ -130,7 +131,7 @@ Winichakul, Thongchai, "Maps and the Formation of the Geo-Body of Siam," in *Asi
 [Humanidades Digitales Library Guide, prepared by The Graduate Center, CUNY, Library with the GC Digital Fellows](https://libguides.gc.cuny.edu/c.php?g=405353&p=5674973)  
 Losh, Elizabeth, and Jacqueline Wernimont, Editors, *Bodies of Information: Intersectional Feminism and Digital Humanities*, 2018  
 [Losh, Elizabeth, "Hacktivism and the Humanities: Programming Protest in the Era of the Digital University," in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/32)  
-[McPherson, Tara, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation," in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/29)  
+[McPherson, Tara, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation," in *Debates in the Digital Humanities*, ed. Matt Gold, 2012](http://dhdebates.gc.cuny.edu/debates/text/29) 
 
 
 ## On divisions of labor on digital projects and "digital carework" (Risam 2018):  
