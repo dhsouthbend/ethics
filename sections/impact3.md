@@ -43,6 +43,8 @@ Further readings:
 [Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, 2018](https://nyupress.org/books/9781479837243/)  
 [Cathy O'Neil, *Methods of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*, 2016](https://weaponsofmathdestructionbook.com/)  
 [Matthew Zook et al, "Ten simple rules for responsible big data research," 2017](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005399)  
+[Wilkinson, T.W., "The Ethics of Research on the Dead", 2002](http://anesthesiologyethics.homestead.com/files/the_ethics_of_research_on_the_dead.pdf)
+
 
 ## Activity   
 
