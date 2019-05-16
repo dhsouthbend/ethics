@@ -4,7 +4,7 @@
 
 This section includes various case studies of digital projects and research that participants may look into and discuss in relation to the ethical questions and concepts addressed, time-permitting.  
 
-## Case study I: "Bad Science" study about "Rapid Onsent Gender Dysphoria"
+## Case study I: "Bad Science" study about "Rapid Onset Gender Dysphoria"
 
 Skim read this [research study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202330) and about the [reaction regarding the scientific validity of this study](https://www.buzzfeednews.com/article/shannonkeating/rapid-onset-gender-dysphoria-flawed-methods-transgender?utm_source=dynamic&utm_campaign=bfsharefacebook&ref=mobile_share&fbclid=IwAR2cG2JNQvwGfOEzhSjMRX94gvFMv0YbjBYaA9LV8GyCNJUCoePY_ytKRlk) and discuss: 
 * This study was approved by an IRB. What may the IRB have missed?
@@ -25,7 +25,7 @@ Read this [brief article](https://io9.gizmodo.com/what-happens-when-scientists-s
 
 ******
 
-## Case study III: “breaking the black box” 
+## Case study III: “Breaking the Black Box” 
 
 Check out [ProPublica’s](https://www.propublica.org/) project [“Breaking the Black Box,”](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you) and discuss:
 
@@ -37,7 +37,7 @@ Also check out: ProPublica's series of articles on ["Machine Bias: Investigating
 
 ******
 
-## Case study IV the gender API
+## Case study IV: The gender API
 
 Check out [the Gender API's website](https://gender-api.com/) and click around its various sections to read about how the API works, and discuss:
 
